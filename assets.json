@@ -1,0 +1,107 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "department": "Computer Science",
+      "photo": "images/john-doe.jpg",
+      "officeLocation": "Block A, Room 101",
+      "phoneNumber": "+1234567890"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "department": "Mathematics",
+      "photo": "images/jane-smith.jpg",
+      "officeLocation": "Block B, Room 202",
+      "phoneNumber": "+0987654321"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "department": "Physics",
+      "photo": "images/alice-johnson.jpg",
+      "officeLocation": "Block C, Room 303",
+      "phoneNumber": "+1122334455"
+    }
+  ],
+  "shops": [
+    {
+      "id": 1,
+      "name": "Cafe Coffee Day",
+      "distance": "0.5 km",
+      "category": "hotel",
+      "photo": "images/cafe-coffee-day.jpg",
+      "openingHours": "8:00 AM - 10:00 PM",
+      "contactInfo": "+1234567890"
+    },
+    {
+      "id": 2,
+      "name": "Bookstore",
+      "distance": "1 km",
+      "category": "stationary",
+      "photo": "images/bookstore.jpg",
+      "openingHours": "9:00 AM - 7:00 PM",
+      "contactInfo": "+0987654321"
+    },
+    {
+      "id": 3,
+      "name": "Supermarket",
+      "distance": "1.2 km",
+      "category": "mart",
+      "photo": "images/supermarket.jpg",
+      "openingHours": "7:00 AM - 11:00 PM",
+      "contactInfo": "+1122334455"
+    },
+    {
+      "id": 4,
+      "name": "Gift Shop",
+      "distance": "0.8 km",
+      "category": "others",
+      "photo": "images/gift-shop.jpg",
+      "openingHours": "10:00 AM - 8:00 PM",
+      "contactInfo": "+5566778899"
+    }
+  ],
+  "classrooms": [
+    {
+      "id": 1,
+      "block": "A",
+      "floor": 1,
+      "roomNo": "101",
+      "capacity": 50,
+      "status": "Available",
+      "equipment": ["Projector", "Whiteboard"]
+    },
+    {
+      "id": 2,
+      "block": "A",
+      "floor": 1,
+      "roomNo": "102",
+      "capacity": 40,
+      "status": "Occupied",
+      "equipment": ["Whiteboard"]
+    },
+    {
+      "id": 3,
+      "block": "B",
+      "floor": 2,
+      "roomNo": "201",
+      "capacity": 60,
+      "status": "Available",
+      "equipment": ["Projector", "Whiteboard", "Sound System"]
+    },
+    {
+      "id": 4,
+      "block": "B",
+      "floor": 2,
+      "roomNo": "202",
+      "capacity": 30,
+      "status": "Available",
+      "equipment": ["Whiteboard"]
+    }
+  ]
+}
