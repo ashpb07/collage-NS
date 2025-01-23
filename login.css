@@ -1,0 +1,352 @@
+:root {
+    --primary-color: #4b6cb7;
+    --secondary-color: #182848;
+    --text-primary: #333;
+    --text-secondary: #666;
+    --background-gradient: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
+    --box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+    --transition-speed: 0.3s;
+    --border-radius: 16px;
+    --error-color: #ff3b30;
+    --success-color: #34c759;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    min-height: -webkit-fill-available;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--background-gradient);
+    padding: 16px;
+}
+
+.container {
+    width: 100%;
+    max-width: 380px;
+    perspective: 1000px;
+    animation: fadeIn 0.4s ease-out;
+}
+
+.card {
+    width: 100%;
+    height: 100%;
+}
+
+.card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: left;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+}
+
+.card-face {
+    position: absolute;
+    width: 100%;
+    min-height: 100%;
+    backface-visibility: hidden;
+    background: white;
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    padding: 24px 20px;
+}
+
+.card-back {
+    transform: rotateY(180deg);
+}
+
+.login-header {
+    text-align: center;
+    margin-bottom: 28px;
+}
+
+.login-header h1 {
+    color: var(--text-primary);
+    margin-bottom: 10px;
+    font-size: 1.75rem;
+    font-weight: 700;
+}
+
+.login-header p {
+    color: var(--text-secondary);
+    font-size: 1rem;
+    line-height: 1.4;
+}
+
+.form-group {
+    position: relative;
+    margin-bottom: 28px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 8px;
+    color: var(--text-primary);
+    font-weight: 600;
+    font-size: 0.95rem;
+}
+
+.form-group input {
+    width: 100%;
+    height: 48px;
+    padding: 0 16px;
+    border: 2px solid #e1e1e1;
+    border-radius: 12px;
+    font-size: 16px;
+    transition: all var(--transition-speed);
+    background: #f8f9fa;
+}
+
+.form-group input:focus {
+    border-color: var(--primary-color);
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(75, 108, 183, 0.1);
+    background: white;
+}
+
+.form-group.error input {
+    border-color: var(--error-color);
+    background-color: #fff2f2;
+}
+
+.form-group.error input:focus {
+    border-color: var(--error-color);
+    box-shadow: 0 0 0 3px rgba(255, 59, 48, 0.1);
+}
+
+.error-message {
+    position: absolute;
+    bottom: -20px;
+    left: 0;
+    color: var(--error-color);
+    font-size: 0.85rem;
+    animation: slideIn 0.3s ease-out;
+}
+
+.form-options {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+}
+
+.remember-me {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.remember-me input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    accent-color: var(--primary-color);
+}
+
+.remember-me label {
+    font-size: 0.95rem;
+    color: var(--text-primary);
+}
+
+.forgot-password {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.95rem;
+}
+
+.submit-button {
+    width: 100%;
+    height: 52px;
+    background: var(--primary-color);
+    color: white;
+    border: none;
+    border-radius: 12px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all var(--transition-speed);
+}
+
+.submit-button:hover {
+    background: var(--secondary-color);
+}
+
+.switch-form {
+    text-align: center;
+    margin-top: 24px;
+}
+
+.switch-form p {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+}
+
+.switch-form a {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media (max-height: 700px) {
+    .card-face {
+        padding: 20px 16px;
+    }
+    
+    .login-header {
+        margin-bottom: 60px;
+    }
+    
+    .form-group {
+        margin-bottom: 16px;
+    }
+}
+
+@supports (padding: max(0px)) {
+    body {
+        padding-left: max(16px, env(safe-area-inset-left));
+        padding-right: max(16px, env(safe-area-inset-right));
+        padding-top: max(16px, env(safe-area-inset-top));
+        padding-bottom: max(16px, env(safe-area-inset-bottom));
+    }
+}
+
+/* ... existing root variables ... */
+
+.page-wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 1rem;
+}
+
+.main-header {
+    text-align: center;
+    color: white;
+    margin-bottom: 2rem;
+}
+
+.main-header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.main-header p {
+    font-size: 1.1rem;
+    opacity: 0.9;
+}
+
+
+/* Make form elements smaller */
+.form-group input {
+    height: 42px; /* Reduced from 48px */
+}
+
+.submit-button {
+    height: 46px; /* Reduced from 52px */
+}
+
+.login-header h1 {
+    font-size: 1.5rem; /* Reduced from 1.75rem */
+}
+
+/* Contact Section Styles */
+.contact-section {
+    text-align: center;
+    color: white;
+    margin-top: 180%;
+    padding: 1rem;
+}
+
+.contact-section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.contact-item a {
+    color: white;
+    text-decoration: none;
+    transition: opacity var(--transition-speed);
+}
+
+.contact-item a:hover {
+    opacity: 0.8;
+}
+
+.contact-social {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.social-link {
+    color: white;
+    font-size: 1.2rem;
+    transition: transform var(--transition-speed);
+}
+
+.social-link:hover {
+    transform: translateY(-2px);
+}
+
+/* Adjust padding for smaller screens */
+@media (max-height: 700px) {
+    .page-wrapper {
+        padding: 1rem;
+    }
+    
+    .main-header h1 {
+        font-size: 2rem;
+    }
+    
+}
+

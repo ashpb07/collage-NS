@@ -26,6 +26,15 @@
       "photo": "images/alice-johnson.jpg",
       "officeLocation": "Block C, Room 303",
       "phoneNumber": "+1122334455"
+    },
+    {
+      "id": 4,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "department": "Computer Science",
+      "photo": "images/john-doe.jpg",
+      "officeLocation": "Block A, Room 101",
+      "phoneNumber": "+1234567890"
     }
   ],
   "shops": [

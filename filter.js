@@ -1,6 +1,6 @@
 // filter.js
 
-let currentSearchFilter = "all"; // Track the current search filter
+let currentSearchFilter = "all"; // Track the current search filter (not used anymore)
 
 // Filter teachers by subject
 const filterTeachersBySubject = (teachers, subject) => {
@@ -30,83 +30,53 @@ const filterClassroomsByBlock = (classrooms, block) => {
 };
 
 // Search functionality for teachers, shops, and classrooms
-const filterData = (data, searchTerm, filterType) => {
+const filterData = (data, searchTerm) => {
   if (!searchTerm) return data; // Return all data if search term is empty
 
-  switch (filterType) {
-    case "teachers":
-      return data.filter(
-        (teacher) =>
-          teacher.name?.toLowerCase().includes(searchTerm) ||
-          teacher.email?.toLowerCase().includes(searchTerm) ||
-          teacher.department?.toLowerCase().includes(searchTerm) ||
-          teacher.officeLocation?.toLowerCase().includes(searchTerm) ||
-          teacher.phoneNumber?.toLowerCase().includes(searchTerm)
-      );
-
-    case "shops":
-      return data.filter(
-        (shop) =>
-          shop.name?.toLowerCase().includes(searchTerm) ||
-          shop.category?.toLowerCase().includes(searchTerm) ||
-          shop.openingHours?.toLowerCase().includes(searchTerm) ||
-          shop.contactInfo?.toLowerCase().includes(searchTerm)
-      );
-
-    case "classrooms":
-      return data.filter(
-        (classroom) =>
-          classroom.block?.toLowerCase().includes(searchTerm) ||
-          classroom.roomNo?.toLowerCase().includes(searchTerm) ||
-          classroom.status?.toLowerCase().includes(searchTerm) ||
-          classroom.equipment?.join(' ')?.toLowerCase().includes(searchTerm)
-      );
-
-    case "all": // Search across all categories
-      return data.filter(
-        (item) =>
-          item.name?.toLowerCase().includes(searchTerm) || // Common property
-          item.email?.toLowerCase().includes(searchTerm) || // Teachers
-          item.department?.toLowerCase().includes(searchTerm) || // Teachers
-          item.officeLocation?.toLowerCase().includes(searchTerm) || // Teachers
-          item.phoneNumber?.toLowerCase().includes(searchTerm) || // Teachers
-          item.category?.toLowerCase().includes(searchTerm) || // Shops
-          item.openingHours?.toLowerCase().includes(searchTerm) || // Shops
-          item.contactInfo?.toLowerCase().includes(searchTerm) || // Shops
-          item.block?.toLowerCase().includes(searchTerm) || // Classrooms
-          item.roomNo?.toLowerCase().includes(searchTerm) || // Classrooms
-          item.status?.toLowerCase().includes(searchTerm) || // Classrooms
-          item.equipment?.join(' ')?.toLowerCase().includes(searchTerm) // Classrooms
-      );
-
-    default:
-      return data;
-  }
+  return data.filter(
+    (item) =>
+      item.name?.toLowerCase().includes(searchTerm) || // Common property
+      item.email?.toLowerCase().includes(searchTerm) || // Teachers
+      item.department?.toLowerCase().includes(searchTerm) || // Teachers
+      item.officeLocation?.toLowerCase().includes(searchTerm) || // Teachers
+      item.phoneNumber?.toLowerCase().includes(searchTerm) || // Teachers
+      item.category?.toLowerCase().includes(searchTerm) || // Shops
+      item.openingHours?.toLowerCase().includes(searchTerm) || // Shops
+      item.contactInfo?.toLowerCase().includes(searchTerm) || // Shops
+      item.block?.toLowerCase().includes(searchTerm) || // Classrooms
+      item.roomNo?.toLowerCase().includes(searchTerm) || // Classrooms
+      item.status?.toLowerCase().includes(searchTerm) || // Classrooms
+      item.equipment?.join(' ')?.toLowerCase().includes(searchTerm) // Classrooms
+  );
 };
 
-// Show/hide containers based on the selected filter
-const updateContainerVisibility = (filter) => {
-  const teachersContainer = document.getElementById('teachersContainer');
-  const shopsContainer = document.getElementById('shopsContainer');
-  const classroomsContainer = document.getElementById('classroomsContainer');
+// Clear search and reset filters
+const clearSearchAndFilters = () => {
+  const searchInput = document.getElementById('searchInput');
+  const teacherFilter = document.getElementById('teacherFilter');
+  const shopFilter = document.getElementById('shopFilter');
+  const classroomFilter = document.getElementById('classroomFilter');
 
-  if (filter === "all") {
-    teachersContainer.classList.remove('hidden');
-    shopsContainer.classList.remove('hidden');
-    classroomsContainer.classList.remove('hidden');
-  } else if (filter === "teachers") {
-    teachersContainer.classList.remove('hidden');
-    shopsContainer.classList.add('hidden');
-    classroomsContainer.classList.add('hidden');
-  } else if (filter === "shops") {
-    teachersContainer.classList.add('hidden');
-    shopsContainer.classList.remove('hidden');
-    classroomsContainer.classList.add('hidden');
-  } else if (filter === "classrooms") {
-    teachersContainer.classList.add('hidden');
-    shopsContainer.classList.add('hidden');
-    classroomsContainer.classList.remove('hidden');
+  // Clear search input
+  if (searchInput) {
+    searchInput.value = '';
   }
+
+  // Reset filter dropdowns to default values
+  if (teacherFilter) {
+    teacherFilter.value = "all";
+  }
+  if (shopFilter) {
+    shopFilter.value = "all";
+  }
+  if (classroomFilter) {
+    classroomFilter.value = "all";
+  }
+
+  // Re-render all data
+  renderTeachers(teachers);
+  renderShops(shops);
+  renderClassrooms(classrooms);
 };
 
 // Add event listeners for filters and search
@@ -144,89 +114,21 @@ const setupEventListeners = () => {
     searchInput.addEventListener('input', (e) => {
       const searchTerm = e.target.value.toLowerCase();
 
-      // Search across all categories if no filter is selected
-      if (currentSearchFilter === "all") {
-        const allData = [...teachers, ...shops, ...classrooms];
-        const filteredData = filterData(allData, searchTerm, "all");
+      // Search across all categories
+      const allData = [...teachers, ...shops, ...classrooms];
+      const filteredData = filterData(allData, searchTerm);
 
-        // Render all filtered data
-        renderTeachers(filteredData.filter((item) => item.department)); // Teachers
-        renderShops(filteredData.filter((item) => item.category)); // Shops
-        renderClassrooms(filteredData.filter((item) => item.block)); // Classrooms
-      } else {
-        // Search within the selected filter
-        const filteredData = filterData(
-          currentSearchFilter === "teachers" ? teachers :
-          currentSearchFilter === "shops" ? shops :
-          classrooms,
-          searchTerm,
-          currentSearchFilter
-        );
-
-        if (currentSearchFilter === "teachers") {
-          renderTeachers(filteredData);
-        } else if (currentSearchFilter === "shops") {
-          renderShops(filteredData);
-        } else if (currentSearchFilter === "classrooms") {
-          renderClassrooms(filteredData);
-        }
-      }
+      // Render all filtered data
+      renderTeachers(filteredData.filter((item) => item.department)); // Teachers
+      renderShops(filteredData.filter((item) => item.category)); // Shops
+      renderClassrooms(filteredData.filter((item) => item.block)); // Classrooms
     });
   }
 
-// Clear search input
-const clearSearch = document.getElementById('clearSearch');
-if (clearSearch) {
-  clearSearch.addEventListener('click', () => {
-    const searchInput = document.getElementById('searchInput');
-    const searchFilter = document.getElementById('searchFilter');
-    const teacherFilter = document.getElementById('teacherFilter');
-    const shopFilter = document.getElementById('shopFilter');
-    const classroomFilter = document.getElementById('classroomFilter');
-
-    // Clear the search input
-    if (searchInput) {
-      searchInput.value = '';
-    }
-
-    // Reset the search filter to "all"
-    if (searchFilter) {
-      searchFilter.value = "all";
-      currentSearchFilter = "all"; // Update the current filter state
-    }
-
-    // Reset other filters to their default values
-    if (teacherFilter) {
-      teacherFilter.value = "all";
-    }
-    if (shopFilter) {
-      shopFilter.value = "all";
-    }
-    if (classroomFilter) {
-      classroomFilter.value = "all";
-    }
-
-    // Show all containers
-    updateContainerVisibility("all");
-
-    // Re-render all data
-    renderTeachers(teachers);
-    renderShops(shops);
-    renderClassrooms(classrooms);
-  });
-}
-
-  // Search filter (teachers, shops, classrooms)
-  const searchFilter = document.getElementById('searchFilter');
-  if (searchFilter) {
-    searchFilter.addEventListener('change', (e) => {
-      currentSearchFilter = e.target.value;
-      searchInput.value = ''; // Clear search input when filter changes
-      updateContainerVisibility(currentSearchFilter); // Show/hide containers
-      renderTeachers(teachers);
-      renderShops(shops);
-      renderClassrooms(classrooms);
-    });
+  // Clear search button
+  const clearSearch = document.getElementById('clearSearch');
+  if (clearSearch) {
+    clearSearch.addEventListener('click', clearSearchAndFilters);
   }
 };
 
