@@ -8,19 +8,27 @@ let classrooms = [];
 // Fetch data from assets.json
 const fetchData = async () => {
   try {
-    const response = await fetch('assets.json');
+    const response = await fetch('/assets.json');
     if (!response.ok) {
       throw new Error(`HTTP error! Status: ${response.status}`);
     }
     const data = await response.json();
-    teachers = data.teachers || [];
-    shops = data.shops || [];
-    classrooms = data.classrooms || [];
 
-    // Render all data initially
-    renderTeachers(teachers);
-    renderShops(shops);
-    renderClassrooms(classrooms);
+    if (!data) {
+      throw new Error('Data is null or undefined');
+    }
+    
+    teachers = Array.isArray(data.teachers) ? data.teachers : [];
+    shops = Array.isArray(data.shops) ? data.shops : [];
+    classrooms = Array.isArray(data.classrooms) ? data.classrooms : [];
+
+    const teacherListElement = document.getElementById('teacherList');
+    const shopListElement = document.getElementById('shopList');
+    const classroomTableElement = document.getElementById('classroomTableContainer');
+    
+    if (teacherListElement) renderTeachers(teachers);
+    if (shopListElement) renderShops(shops);
+    if (classroomTableElement) renderClassrooms(classrooms);
   } catch (err) {
     console.error('Error fetching data:', err);
     showError('teacherList', 'Failed to load teachers.');

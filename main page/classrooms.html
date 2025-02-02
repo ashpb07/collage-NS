@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>College Room Locator - Classrooms</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <link rel="stylesheet" href="/styles/styles.css">
+  <link rel="stylesheet" href="/styles/header.css">
+</head>
+<body>
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="navbar-container">
+      <script src="/header/header.js"></script>
+    </div>
+  </nav>
+
+  <!-- Header -->
+  <header>
+    <h1>Classroom Details</h1>
+    <div class="search-bar">
+      <input type="text" id="searchInput" placeholder="Search by block, floor, or room number..." />
+      <button id="clearSearch">Clear</button>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <div class="container" id="classroomsContainer">
+    <div class="filter-section">
+      <h2>Classroom Details</h2>
+      <select id="classroomFilter">
+        <option value="all">All Blocks</option>
+        <option value="A">Block A</option>
+        <option value="B">Block B</option>
+      </select>
+    </div>
+    <div id="classroomTableContainer">
+      <div class="loader" id="classroomLoader"></div>
+      <table id="classroomTable" style="display: none;">
+        <thead>
+          <tr>
+            <th>Block</th>
+            <th>Floor</th>
+            <th>Room No</th>
+            <th>Capacity</th>
+            <th>Status</th>
+            <th>Equipment</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Rows will be dynamically added here -->
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <script src="/header/footer.js"></script>
+  </footer>
+
+  <script src="/js files/datafetcher.js"></script>
+  <script src="/js files/renderer.js"></script>
+  <script src="/js files/filter.js"></script>
+  <script src="/js files/navbar.js"></script>
+</body>
+</html>

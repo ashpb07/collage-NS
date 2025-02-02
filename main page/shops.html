@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>College Room Locator - Shops</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <link rel="stylesheet" href="/styles/styles.css">
+  <link rel="stylesheet" href="/styles/header.css">
+</head>
+<body>
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="navbar-container">
+      <script src="/header/header.js"></script>
+    </div>
+  </nav>
+
+  <!-- Header -->
+  <header>
+    <h1>Nearby Shops</h1>
+    <div class="search-bar">
+      <input type="text" id="searchInput" placeholder="Search by shop name or category..." />
+      <button id="clearSearch">Clear</button>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <div class="container" id="shopsContainer">
+    <div class="filter-section">
+      <h2>Nearby Shops</h2>
+      <select id="shopFilter">
+        <option value="all">All Categories</option>
+        <option value="mart">Mart</option>
+        <option value="stationary">Stationary</option>
+        <option value="hotel">Hotel</option>
+        <option value="others">Others</option>
+      </select>
+    </div>
+    <div id="shopList"><div class="loader"></div></div>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <script src="/header/footer.js"></script>
+  </footer>
+
+  <script src="/js files/datafetcher.js"></script>
+  <script src="/js files/renderer.js"></script>
+  <script src="/js files/filter.js"></script>
+  <script src="/js files/navbar.js"></script>
+</body>
+</html>

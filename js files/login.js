@@ -109,7 +109,7 @@ document.addEventListener('DOMContentLoaded', function() {
 document.getElementById('loginForm').addEventListener('submit', function(event) {
     event.preventDefault();
     // Add your validation logic here
-    window.location.href = 'main.html'; // Redirect to main page
+    window.location.href = '/index.html'; // Redirect to main page
 });
 
 document.getElementById('signupForm').addEventListener('submit', function(event) {
