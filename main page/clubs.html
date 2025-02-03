@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>College Room Locator - Clubs</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <link rel="stylesheet" href="/styles/styles.css">
+  <link rel="stylesheet" href="/styles/header.css">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="navbar-container">
+      <script src="/header/header.js"></script>
+    </div>
+  </nav>
+
+  <header>
+    <h1>Clubs</h1>
+  </header>
+
+  <div class="container" id="clubsContainer">
+    <div class="loader" id="clubsLoader"></div>
+    <table id="clubsTable" style="display: none;">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Description</th>
+          <th>Advisor</th>
+          <th>President</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Rows will be dynamically added here -->
+      </tbody>
+    </table>
+  </div>
+
+  <footer>
+    <script src="/header/footer.js"></script>
+  </footer>
+
+  <script src="/js files/clubs.js"></script>
+</body>
+</html>
