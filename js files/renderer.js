@@ -83,7 +83,7 @@ const renderTeachers = (data) => {
                 <td>${classroom.block}</td>
                 <td>${classroom.floor}</td>
                 <td>${classroom.roomNo}</td>
-                <td>${classroom.capacity}</td>
+                <td>${classroom.section}</td>
                 <td>${classroom.status}</td>
                 <td>${classroom.equipment.join(', ')}</td>
               </tr>

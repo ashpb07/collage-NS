@@ -1,11 +1,11 @@
 /* Root Variables */
 :root {
-  --primary-color: #0D0D0D;
-  --secondary-color: #FFFFFF;
-  --accent-color: #FF6F61;
-  --highlight-color: #5BC0EB;
+  --primary-color: #fde4c6;
+  --secondary-color: #461004;
+  --accent-color: #461004;
+  --highlight-color: #d1581c;
   --background-color: #F4F4F4;
-  --text-primary: #333333;
+  --text-primary: #461004;
   --text-secondary: #777777;
   --border-radius: 8px;
   --transition-speed: 0.3s;
@@ -48,7 +48,7 @@
   right: -100%;  /* Starts off-screen */
   width: 250px;
   height: 100vh;
-  background-color: var(--primary-color);
+  background-color: #d64507cf;
   display: flex;
   flex-direction: column;
   padding-top: 60px;
@@ -68,7 +68,7 @@
 }
 
 .navbar-menu li a {
-  color: var(--secondary-color);
+  color: var(--background-color);
   text-decoration: none;
   font-size: 1.2rem;
   display: block;
@@ -105,7 +105,7 @@
   font-size: 1.8rem;
   color: var(--secondary-color);
   transition: transform var(--transition-speed);
-  display: none; /* Hidden on large screens */
+  display: block; /* Hidden on large screens */
 }
 
 /* Overlay */
@@ -124,19 +124,12 @@
   display: block; /* Show overlay when navbar is active */
 }
 
-/* Mobile Styles */
-@media (max-width: 768px) {
-  .navbar-toggle {
-    display: block;
-  }
-}
 
   /* Footer */
   footer {
     background-color: var(--primary-color);
     color: var(--secondary-color);
     text-align: center;
-    padding: 20px;
   }
   
   .footer-container {
@@ -229,19 +222,22 @@
     width: 100%;
     max-width: 300px;
     padding: 12px;
-    background-color: var(--accent-color);
+    background-color: #fde4c6;
     color: var(--secondary-color);
-    border: none;
+    border: 1px solid #461004;  
+    box-shadow: 6px 6px 0px #461004;
     border-radius: var(--border-radius);
     font-size: 1rem;
     font-weight: bold;
     cursor: pointer;
-    transition: background-color var(--transition-speed);
+    transition: background-color var(--transition-speed) transform 1s ease;
+  }
+ 
+  .newsletter-form button:active {
+    box-shadow:none;
+    transform: translateY(6px) translateX(6px);
   }
   
-  .newsletter-form button:hover {
-    background-color: var(--highlight-color);
-  }
   
   .footer-bottom {
     text-align: center;
@@ -295,12 +291,6 @@
     }
   }
   
-  /* Additional Styles */
-  button:focus,
-  input:focus {
-    outline: none;
-    box-shadow: 0 0 0 3px rgba(255, 111, 97, 0.5);
-  }
   
   /* Font Import */
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');

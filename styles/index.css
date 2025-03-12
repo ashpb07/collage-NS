@@ -1,9 +1,8 @@
 /* Root Variables */
 :root {
-  --primary-color: #0D0D0D;
-  --secondary-color: #FFFFFF;
+  --primary-color: #ffffff;
   --accent-color: #FF6F61;
-  --highlight-color: #5BC0EB;
+  --highlight-color: #f5411e; 
   --background-color: #F4F4F4;
   --text-primary: #333333;
   --text-secondary: #777777;
@@ -13,6 +12,7 @@
   --transition-speed: 0.3s;
   --font-family: 'Poppins', sans-serif;
 }
+
 
 /* Global Styles */
 * {
@@ -27,6 +27,8 @@ body {
   background-color: var(--background-color);
   color: var(--text-primary);
   line-height: 1.6;
+  -webkit-tap-highlight-color: transparent;
+  -ms-overflow-style: none;
 }
 
 a {
@@ -40,14 +42,13 @@ a:hover {
 }
 
 .container {
-  max-width: 1200px;
   margin: 0 auto;
 }
 
 /* Hero Section */
 header {
-  background: linear-gradient(135deg, var(--accent-color), var(--highlight-color));
-  color: var(--secondary-color);
+  background: radial-gradient(circle at 50% 50%, #fde4c6,#d1581c );
+  color: var(--text-primary);
   padding: 100px 20px;
   text-align: center;
 }
@@ -64,14 +65,14 @@ header p {
 
 /* About Section */
 .about-section {
-  background-color: var(--secondary-color);
+  background-color:#fde4c6;
   padding: 60px 20px;
   text-align: center;
 }
 
 .about-section h2 {
   font-size: 2.5rem;
-  color: var(--primary-color);
+  color: var(#461004);
   margin-bottom: 20px;
 }
 
@@ -92,18 +93,17 @@ header p {
 }
 
 .card {
-  background-color: var(--secondary-color);
+  background-color: #fde4c6;
   border-radius: var(--border-radius);
   overflow: hidden;
   width: calc(33% - 20px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transition: transform var(--transition-speed), box-shadow var(--transition-speed);
 }
-
+ 
 .card:hover {
   transform: translateY(-10px);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-}
+  box-shadow: 6px 6px 0px #461004;
+} 
 
 .card a {
   color: var(--text-primary);

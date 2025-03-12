@@ -52,7 +52,7 @@
       "name": "Bookstore",
       "distance": "1 km",
       "category": "stationary",
-      "photo": "/images/bookstore.jpg",
+      "photo": "/images/cafe-coffee-day.jpg",
       "openingHours": "9:00 AM - 7:00 PM",
       "contactInfo": "+0987654321"
     },
@@ -61,7 +61,7 @@
       "name": "Supermarket",
       "distance": "1.2 km",
       "category": "mart",
-      "photo": "/images/supermarket.jpg",
+      "photo": "/images/cafe-coffee-day.jpg",
       "openingHours": "7:00 AM - 11:00 PM",
       "contactInfo": "+1122334455"
     },
@@ -70,47 +70,138 @@
       "name": "Gift Shop",
       "distance": "0.8 km",
       "category": "others",
-      "photo": "/images/gift-shop.jpg",
+      "photo": "/images/cafe-coffee-day.jpg",
       "openingHours": "10:00 AM - 8:00 PM",
       "contactInfo": "+5566778899"
     }
   ],
+
   "classrooms": [
     {
       "id": 1,
-      "block": "A",
-      "floor": 1,
-      "roomNo": "101",
-      "capacity": 50,
-      "status": "Available",
+      "block": "C V RAMAN",
+      "floor": "0",
+      "roomNo": "LC01",
+      "status": "1st year computer science",
+      "section": "A ",
       "equipment": ["Projector", "Whiteboard"]
     },
     {
       "id": 2,
-      "block": "A",
-      "floor": 1,
-      "roomNo": "102",
-      "capacity": 40,
-      "status": "Occupied",
-      "equipment": ["Whiteboard"]
+      "block": "C V RAMAN",
+      "floor": "0",
+      "roomNo": "LC02",
+      "status": "1st year computer science",
+      "section": "B",
+      "equipment": ["Projector", "Whiteboard"]
     },
     {
       "id": 3,
-      "block": "B",
-      "floor": 2,
-      "roomNo": "201",
-      "capacity": 60,
-      "status": "Available",
-      "equipment": ["Projector", "Whiteboard", "Sound System"]
+      "block": "C V RAMAN",
+      "floor": "0",
+      "roomNo": "LC04",
+      "status": "1st year computer science",
+      "section": "C ",
+      "equipment": ["Projector", "Whiteboard"]
     },
     {
       "id": 4,
-      "block": "B",
-      "floor": 2,
-      "roomNo": "202",
-      "capacity": 30,
-      "status": "Available",
-      "equipment": ["Whiteboard"]
+      "block": "C V RAMAN",
+      "floor": "0",
+      "roomNo": "ISL09",
+      "status": "Skill Development/IMAC Lab",
+      "section": "Dept of ISE",
+      "equipment": ["iMacs", "Projector"]
+    },
+    {
+      "id": 5,
+      "block": "C V RAMAN",
+      "floor": "1",
+      "roomNo": "LC11",
+      "status": "1st year computer science",
+      "section": "D ",
+      "equipment": ["Projector", "Whiteboard"]
+    },
+    {
+      "id": 6,
+      "block": "C V RAMAN",
+      "floor": "1",
+      "roomNo": "LC12",
+      "status": "1st year computer science",
+      "section": "E ",
+      "equipment": ["Projector", "Whiteboard"]
+    },
+    {
+      "id": 7,
+      "block": "C V RAMAN",
+      "floor": "1",
+      "roomNo": "LC13",
+      "status": "Active Learning Lab on Robotics",
+      "section": "Robotics",
+      "equipment": ["Robotics Kits", "Computers"]
+    },
+    {
+      "id": 8,
+      "block": "C V RAMAN",
+      "floor": "1",
+      "roomNo": "LC14",
+      "status": "1st year AIML",
+      "section": "K ",
+      "equipment": ["Projector", "Whiteboard"]
+    },
+    {
+      "id": 9,
+      "block": "C V RAMAN",
+      "floor": "2",
+      "roomNo": "LC21",
+      "status": "1st year ISE",
+      "section": "F ",
+      "equipment": ["Projector", "Whiteboard"]
+    },
+    {
+      "id": 10,
+      "block": "C V RAMAN",
+      "floor": "2",
+      "roomNo": "LC22",
+      "status": "1st year ISE",
+      "section": "G ",
+      "equipment": ["Projector", "Whiteboard"]
+    },
+    {
+      "id": 11,
+      "block": "C V RAMAN",
+      "floor": "2",
+      "roomNo": "LC24",
+      "status": "1st year ISE",
+      "section": "I ",
+      "equipment": ["Projector", "Whiteboard"]
+    },
+    {
+      "id": 12,
+      "block": "C V RAMAN",
+      "floor": "3",
+      "roomNo": "LC31",
+      "status": "CCE Lab",
+      "section": "CCE",
+      "equipment": ["Computers", "Networking Tools"]
+    },
+    {
+      "id": 13,
+      "block": "C V RAMAN",
+      "floor": "3",
+      "roomNo": "LC37",
+      "status": "Cybersecurity Lab",
+      "section": "Cybersecurity",
+      "equipment": ["Servers", "Security Tools"]
+    },
+    {
+      "id": 14,
+      "block": "C V RAMAN",
+      "floor": "4",
+      "roomNo": "LC41",
+      "status": "VLSI Lab",
+      "section": "U ",
+      "equipment": ["VLSI Kits", "Oscilloscopes"]
     }
   ]
 }

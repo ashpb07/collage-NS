@@ -15,13 +15,14 @@
 /* Body Styles */
 body {
   font-family: 'Courier New', Courier, monospace;
-  background-image: url(/images/background.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  color: #ffffff;
+  background: linear-gradient(45deg, #fff6ec, #ffd3a6);
+  color: #461004;
   margin: 0;
   padding: 0;
   min-height: 100vh;
+  font-weight: bold;
+  -webkit-tap-highlight-color: transparent;
+  -ms-overflow-style: none;
 }
 .menu-grid {
   display: grid;
@@ -100,33 +101,14 @@ body {
   height: 125px;
   width: 125px;
   border-radius: 50%;
+  border-color:#461004 ;
 }
 
-.navbar-menu {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  gap: 1.5rem;
-}
-
-.navbar-link {
-  color: #ffffff;
-  text-decoration: none;
-  font-size: 1.25rem;
-  padding: 3%;
-  text-wrap: wrap;
-  
-}
-
-.navbar-link:hover {
-  color: #3498db;
-}
 
 /* Header Styles */
 header {
   background-color: transparent;
-  color: #ffffff;
+  color: #461004;
   padding: 2rem 1rem;
   text-align: center;
 }
@@ -148,27 +130,39 @@ header h1 {
 .search-bar input {
   width: 70%;
   padding: 0.75rem;
-  border: 1px solid #ffffff;
-  background-color: rgba(255, 255, 255, 0.148);
+  border: 1px solid #461004;
+  background-color: #fff6ec;
   border-radius: 5px;
-  color: white;
+  box-shadow: 6px 6px 0px #461004;
+  color: #461004;
   font-size: 1rem;
   outline: none;
+  transition: box-shadow 1s ease transform 1s ease;
+
+}
+ 
+.search-bar input:active {
+  box-shadow: 0px 0px 0px #461004;
+  transform: translateY(6px) translateX(6px);
 }
 
 .search-bar button {
   padding: 0.75rem 1rem;
-  border: 1px solid;
+  border: 2px solid;
   border-radius: 5px;
-  background-color: #00000000;
-  color: #fff;
-  border-color: white;
+  box-shadow: 6px 6px 0px #461004;
+  background-color: #fff6ec;
+  color: #461004;
+  border-color: #461004;
   cursor: pointer;
-  transition: background-color 0.3s ease;
+  transition: box-shadow 1s ease transform 1s ease;
 }
 
-.search-bar button:hover {
-  background-color: #2980b9;
+
+.search-bar button:active {
+  box-shadow: 0px 0px 0px #461004;
+  transform: translateY(6px) translateX(6px);
+
 }
 
 
@@ -178,6 +172,7 @@ header h1 {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 1rem;
+  
 }
 
 .filter-section h2 {
@@ -186,24 +181,34 @@ header h1 {
 
 .filter-section select {
   padding: 0.5rem;
-  border: 1px solid #bdc3c7;
+  border: 2px solid #461004;
   border-radius: 5px;
+  background-color: #fff6ec;
   font-size: 1rem;
+  font-family: 'Courier New', Courier, monospace;
   outline: none;
   cursor: pointer;
   width: 40%;
+  box-shadow: 6px 6px 0px #461004;
+  transition: box-shadow 1s ease transform 1s ease;
+
 }
 
 .filter-section select:focus {
-  border-color: #3498db;
+  border-color: #461004;
+  font-family: 'Courier New', Courier, monospace;
+}
+.filter-section select:active {
+  box-shadow: 0px 0px 0px #461004;
+  transform: translateY(6px) translateX(6px);
 }
 
 /* Container Styles */
 .container {
-  background-color: #ffffff1b;
+  background-color: #ffa25ab0;
   padding: 5%;
   border-radius: 12px;
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  box-shadow: 8px 8px 0px #461004;
   width: 95%;
   margin: 1.5rem auto;
   flex: 1;
@@ -223,31 +228,34 @@ header h1 {
 }
 
 .teacher-item {
-  background-color: #ffffff79;
+  background-color: #ffd3a6;
   padding: 1rem;
   border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 9px 10px 0px #461004;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   width: 95%;
+  max-width: 310px;
 }
 
 .teacher-photo {
   width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  margin-bottom: 1rem;
+  height: 130px;
+  border-radius: 12%;
+  margin-right: 1rem;
   object-fit: cover;
-  border: 3px solid #ffffff;
+  border: 1px solid #461004;
+  box-shadow: 4px 4.5px 0px #461004;
 }
 
 .teacher-details {
-  text-align: center;
+  text-align: left;
+ 
 }
 
 .teacher-details strong {
-  color: #ffffff;
+  color: #461004;
   font-size: 1rem;
   font-weight: 600;
   display: block;
@@ -255,17 +263,17 @@ header h1 {
 
 .teacher-details span {
   display: block;
-  color: #ffffff;
+  color: #461004;
   font-size: 0.9rem;
 }
 
 .teacher-details .email {
-  color: #ffffff;
+  color: #461004;
   font-weight: 750;
 }
 
 .teacher-details .department {
-  color: #ffffff;
+  color: #461004;
   font-weight: 500;
 }
 
@@ -282,18 +290,18 @@ header h1 {
   padding: 1rem;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  width: 100%;
-  max-width: 150px;
+  width: 400px;
   text-align: center;
 }
 
 .shop-photo {
-  width: 100px; /* Fixed width */
-  height: 100px; /* Fixed height to make it square */
+  width: 300px; /* Fixed width */
+  height: 200px; /* Fixed height to make it square */
   border-radius: 12px; /* Slightly rounded corners */
   margin-bottom: 1rem;
+  margin-top: 1rem;
   object-fit: cover; /* Ensures the image fits well */
-  border: 3px solid #feffff; /* Optional: Add a border */
+  border: 3px solid #461004; /* Optional: Add a border */
 }
 
 .shop-details {
@@ -301,7 +309,7 @@ header h1 {
 }
 
 .shop-details strong {
-  color: #ffffff;
+  color: #461004;
   font-size: 1rem;
   font-weight: 600;
   display: block;
@@ -309,37 +317,39 @@ header h1 {
 }
 
 .shop-details span {
-  color: #ffffff;
+  color: #461004;
   font-size: 0.9rem;
   display: block;
   margin-bottom: 0.25rem;
 }
 
 .shop-details .category {
-  color: #ffffff;
+  color: #461004;
   font-weight: 500;
 }
 
 /* Table Styles */
 table {
   width: 100%; /* Ensure the table takes full width of its container */
-  border:1px solid white; /* Merge borders for a cleaner look */
+  border:1px solid #461004; /* Merge borders for a cleaner look */
   margin-top: 1rem;
   table-layout: auto; /* Allow columns to expand based on content */
   white-space: nowrap; /* Prevent text from wrapping */
 }
 
-table th, table td {
+table th, table td  {
   padding: 0.75rem;
   text-align: left;
-  border-bottom: 1px solid #ddd;
+  border-right: 1px solid #461004;
+  border-bottom: 1px solid #461004;
 }
 
 table th {
-  background-color: #58d3ff;
-  color: #ffffff;
+  background-color: #ffdcb3;
+  color: #461004;
   font-weight: 600;
 }
+
 
 
 /* Table Container */
@@ -452,8 +462,4 @@ footer p {
     width: 60%;
   }
 
-  .shop-photo {
-    width: 80px;
-    height: 80px;
-  }
 }

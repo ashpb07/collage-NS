@@ -25,7 +25,7 @@ const footerHTML = `
 
     <!-- Newsletter Subscription -->
     <div class="footer-newsletter">
-      <h3>Subscribe to Our Newsletter</h3>
+      <h3>Thank you for visiting our website <br> NU navigator</h3>
       <form class="newsletter-form">
         <input type="email" placeholder="Enter your email" required />
         <button type="submit">Subscribe</button>
