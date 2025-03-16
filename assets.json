@@ -2,11 +2,11 @@
   "teachers": [
     {
       "id": 1,
-      "name": "John Doe",
-      "email": "john@example.com",
-      "department": "Computer Science",
-      "photo": "/images/john-doe.jpg",
-      "officeLocation": "Block A, Room 101",
+      "name": "Mr.S.Shyam Kumar",
+      "email": "s.shyam@nitte.edu.in",
+      "department": "Cybersecurity",
+      "photo": "/images/shyam_kumar.jpg",
+      "officeLocation": "Block Ramanujan, floor-4",
       "phoneNumber": "+1234567890"
     },
     {
