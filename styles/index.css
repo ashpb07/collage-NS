@@ -5,7 +5,7 @@
   --highlight-color: #f5411e; 
   --background-color: #F4F4F4;
   --text-primary: #333333;
-  --text-secondary: #777777;
+  --text-secondary: #a02b06;
   --error-color: #FF3B30;
   --success-color: #4CD964;
   --border-radius: 8px;
@@ -76,10 +76,13 @@ header p {
   margin-bottom: 20px;
 }
 
-.about-section p {
+.paragraph {
   font-size: 1.1rem;
-  color: var(--text-secondary);
+  color: #461004;
   margin-bottom: 30px;
+}
+.highlight-text {
+  font-size: 1.5rem;
 }
 
 /* Cards Section */
@@ -93,17 +96,15 @@ header p {
 }
 
 .card {
-  background-color: #fde4c6;
-  border-radius: var(--border-radius);
+  background-color: #ffd3a6;
+  border-radius: 3px;
+  border: 3px solid #461004;
   overflow: hidden;
   width: calc(33% - 20px);
-  transition: transform var(--transition-speed), box-shadow var(--transition-speed);
+  box-shadow: 8px 8px 0px #461004;
 }
  
-.card:hover {
-  transform: translateY(-10px);
-  box-shadow: 6px 6px 0px #461004;
-} 
+
 
 .card a {
   color: var(--text-primary);

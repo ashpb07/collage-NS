@@ -203,5 +203,108 @@
       "section": "U ",
       "equipment": ["VLSI Kits", "Oscilloscopes"]
     }
+  ],
+
+  "clubs": [
+    {
+      "id": 1,
+      "photo": "/images/cafe-coffee-day.jpg",
+      "name": "Robotics Club",
+      "category": "Technical",
+      "president": "Dr. XYZ",
+      "description":" Robotics Club is a technical club that focuses on robotics and automation.",
+      "location": "C V RAMAN",
+      "url": "https://example.com/robotics-club"
+    },
+    {
+      "id": 2,
+      "name": "Coding Club",
+      "category": "Technical",
+      "president": "Mr. ABC",
+      "description":" Coding Club is a technical club that focuses on coding and web development.",
+      "location": "C V RAMAN",
+      "url": "https://example.com/coding-club"
+    },
+    {
+      "id": 3,
+      "name": "Art Club",
+      "category": "Cultural",
+      "president": "Ms. PQR",
+      "description":" Art Club is a cultural club that focuses on art and design.",
+      "location": "Auditorium",
+      "url": "https://example.com/art-club"
+    },
+    {
+      "id": 4,
+      "name": "Music Club",
+      "category": "Cultural",
+      "president": "Mr. DEF",
+      "description":" Music Club is a cultural club that focuses on music and singing.",
+      "location": "Auditorium",
+      "url": "https://example.com/music-club"
+    },
+    {
+      "id": 5,
+      "name": "Sports Club",
+      "category": "Sports",
+      "president": "Mr. GHI",
+      "description":" Sports Club is a sports club that focuses on sports and fitness.",
+      "location": "Sports Complex",
+      "url": "https://example.com/sports-club"
+    },
+    {
+      "id": 6,
+      "name": "Cultural Club",
+      "category": "Cultural",
+      "president": "Ms. JKL",
+      "description":" Cultural Club is a cultural club that focuses on cultural events and activities.",
+      "location": "Auditorium",
+      "url": "https://example.com/cultural-club"
+    },
+    {
+      "id": 7,
+      "name": "Environmental Club",
+      "category": "Social",
+      "president": "Mr. MNO",
+      "description":" Environmental Club is a social club that focuses on environmental issues and sustainability.",
+      "location": "Eco-Friendly Zone",
+      "url": "https://example.com/environmental-club"
+    },
+    {
+      "id": 8,
+      "name": "Photography Club",
+      "category": "Hobby",
+      "president": "Ms. PQR",
+      "description":" Photography Club is a hobby club that focuses on photography and creative expression.",
+      "location": "Photography Studio",
+      "url": "https://example.com/photography-club"
+    }
+  ],
+  "labs": [
+    {
+      "id": 1,
+      "name": "Physics Lab",
+      "equipment": ["Oscilloscope", "Function Generator", "Power Supply"],
+      "occupiedBy": "Class A"
+    },
+    {
+      "id": 2,
+      "name": "Chemistry Lab",
+      "equipment": ["Bunsen Burner", "Test Tubes", "Beakers"],
+      "occupiedBy": "Available"
+    },
+    {
+      "id": 3,
+      "name": "Biology Lab",
+      "equipment": ["Microscope", "Petri Dishes", "Slides"],
+      "occupiedBy": "Class B"
+    },
+    {
+      "id": 4,
+      "name": "Computer Lab",
+      "equipment": ["Computers", "Projector", "Whiteboard"],
+      "occupiedBy": "Available"
+    }
   ]
+
 }

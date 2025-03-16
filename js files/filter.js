@@ -1,7 +1,5 @@
 // filter.js
 
-let currentSearchFilter = "all"; // Track the current search filter (not used anymore)
-
 // Filter teachers by subject
 const filterTeachersBySubject = (teachers, subject) => {
   if (subject === "all") {
@@ -29,7 +27,27 @@ const filterClassroomsByBlock = (classrooms, block) => {
   }
 };
 
-// Search functionality for teachers, shops, and classrooms
+const filterLabsByNameOrEquipment = (labs, searchTerm) => {
+  if (searchTerm === "") {
+    return labs;
+  } else {
+    return labs.filter((lab) =>
+      lab.name.toLowerCase().includes(searchTerm) ||
+      lab.equipment.join(' ').toLowerCase().includes(searchTerm)
+    );
+  }
+};
+
+// Filter clubs by category
+const filterClubsByCategory = (clubs, category) => {
+  if (category === "all") {
+    return clubs;
+  } else {
+    return clubs.filter((club) => club.category === category);
+  }
+};
+
+// Search functionality for teachers, shops, classrooms, and clubs
 const filterData = (data, searchTerm) => {
   if (!searchTerm) return data; // Return all data if search term is empty
 
@@ -40,13 +58,16 @@ const filterData = (data, searchTerm) => {
       item.department?.toLowerCase().includes(searchTerm) || // Teachers
       item.officeLocation?.toLowerCase().includes(searchTerm) || // Teachers
       item.phoneNumber?.toLowerCase().includes(searchTerm) || // Teachers
-      item.category?.toLowerCase().includes(searchTerm) || // Shops
+      item.category?.toLowerCase().includes(searchTerm) || // Shops and Clubs
       item.openingHours?.toLowerCase().includes(searchTerm) || // Shops
       item.contactInfo?.toLowerCase().includes(searchTerm) || // Shops
       item.block?.toLowerCase().includes(searchTerm) || // Classrooms
       item.roomNo?.toLowerCase().includes(searchTerm) || // Classrooms
       item.status?.toLowerCase().includes(searchTerm) || // Classrooms
-      item.equipment?.join(' ')?.toLowerCase().includes(searchTerm) // Classrooms
+      item.equipment?.join(' ')?.toLowerCase().includes(searchTerm) || // Classrooms
+      item.president?.toLowerCase().includes(searchTerm) || // Clubs
+      item.description?.toLowerCase().includes(searchTerm) || // Clubs
+      item.location?.toLowerCase().includes(searchTerm) // Clubs
   );
 };
 
@@ -56,6 +77,7 @@ const clearSearchAndFilters = () => {
   const teacherFilter = document.getElementById('teacherFilter');
   const shopFilter = document.getElementById('shopFilter');
   const classroomFilter = document.getElementById('classroomFilter');
+  const clubFilter = document.getElementById('clubFilter');
 
   // Clear search input
   if (searchInput) {
@@ -72,11 +94,15 @@ const clearSearchAndFilters = () => {
   if (classroomFilter) {
     classroomFilter.value = "all";
   }
+  if (clubFilter) {
+    clubFilter.value = "all";
+  }
 
   // Re-render all data
   renderTeachers(teachers);
   renderShops(shops);
   renderClassrooms(classrooms);
+  renderClubs(clubs);
 };
 
 // Add event listeners for filters and search
@@ -108,20 +134,41 @@ const setupEventListeners = () => {
     });
   }
 
+  // Lab filter
+  const labFilter = document.getElementById('labFilter');
+  if (labFilter) {
+    labFilter.addEventListener('change', (e) => {
+      const filteredLabs = filterLabsByNameOrEquipment(labs, e.target.value);
+      renderLabs(filteredLabs);
+    });
+  }
+
+
+  const clubFilter = document.getElementById('clubFilter');
+  if (clubFilter) {
+    clubFilter.addEventListener('change', (e) => {
+      const filteredClubs = filterClubsByCategory(clubs, e.target.value);
+      renderClubs(filteredClubs);
+    });
+  }
+
   // Search input
   const searchInput = document.getElementById('searchInput');
   if (searchInput) {
     searchInput.addEventListener('input', (e) => {
       const searchTerm = e.target.value.toLowerCase();
 
-      // Search across all categories
-      const allData = [...teachers, ...shops, ...classrooms];
+      // Search across all categories including labs
+      const filteredLabs = filterLabsByNameOrEquipment(labs, searchTerm);
+      const allData = [...teachers, ...shops, ...classrooms, ...clubs, ...filteredLabs];
+
       const filteredData = filterData(allData, searchTerm);
 
       // Render all filtered data
       renderTeachers(filteredData.filter((item) => item.department)); // Teachers
-      renderShops(filteredData.filter((item) => item.category)); // Shops
+      renderShops(filteredData.filter((item) => item.category && !item.president)); // Shops
       renderClassrooms(filteredData.filter((item) => item.block)); // Classrooms
+      renderClubs(filteredData.filter((item) => item.category && item.president)); // Clubs
     });
   }
 

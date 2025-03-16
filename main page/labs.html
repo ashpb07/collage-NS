@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Clubs Details</title>
+  <title>College Room Locator - Labs</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <link rel="stylesheet" href="/styles/styles.css">
   <link rel="stylesheet" href="/styles/header.css">
@@ -18,26 +18,38 @@
 
   <!-- Header -->
   <header>
-    <h1>Clubs Details</h1>
+    <h1>Lab Details</h1>
     <div class="search-bar">
-      <input type="text" id="searchInput" placeholder="Search by club name or category..." />
+      <input type="text" id="searchInput" placeholder="Search by lab name or number..." />
       <button id="clearSearch">Clear</button>
     </div>
   </header>
 
   <!-- Main Content -->
-  <div class="container" id="clubsContainer">
+  <div class="container" id="labsContainer">
     <div class="filter-section">
-      <h2>Club Categories</h2>
-      <select id="clubFilter">
-        <option value="all">All Categories</option>
-        <option value="Technical">Technical</option>
-        <option value="Cultural">Cultural</option>
-        <option value="Sports">Sports</option>
-        <option value="Others">Others</option>
+      <h2>Lab Details</h2>
+      <select id="labFilter">
+        <option value="all">All Labs</option>
+        <option value="Lab A">Lab A</option>
+        <option value="Lab B">Lab B</option>
       </select>
     </div>
-    <div id="clubsList"><div class="loader"></div></div>
+    <div id="labTableContainer">
+      <div class="loader" id="labLoader"></div>
+      <table id="labTable" style="display: none;">
+        <thead>
+          <tr>
+            <th>Lab Name</th>
+            <th>Equipment</th>
+            <th>Occupied By</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Rows will be dynamically added here -->
+        </tbody>
+      </table>
+    </div>
   </div>
 
   <!-- Footer -->

@@ -15,6 +15,7 @@ const navbarHTML = `
     <li><a href="/main page/teacher.html">Teachers</a></li>
     <li><a href="/main page/shops.html">Shops</a></li>
     <li><a href="/main page/classrooms.html">Classrooms</a></li>
+    <li><a href="/main page/clubs.html">Clubs</a></li>
   </ul>
   <div class="overlay"></div>
 `;
