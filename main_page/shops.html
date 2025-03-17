@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>College Room Locator - Teachers</title>
+  <title>College Room Locator - Shops</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <link rel="stylesheet" href="/styles/styles.css">
   <link rel="stylesheet" href="/styles/header.css">
@@ -18,36 +18,35 @@
 
   <!-- Header -->
   <header>
-    <h1>Teachers Directory</h1>
+    <h1>Nearby Shops</h1>
     <div class="search-bar">
-      <input type="text" id="searchInput" placeholder="Search by name, email, or department..." />
+      <input type="text" id="searchInput" placeholder="Search by shop name or category..." />
       <button id="clearSearch">Clear</button>
     </div>
   </header>
 
   <!-- Main Content -->
-  <div class="container" id="teachersContainer">
+  <div class="container" id="shopsContainer">
     <div class="filter-section">
-      <h2>Teachers</h2>
-      <select id="teacherFilter">
-        <option value="all">All Subjects</option>
-        <option value="Computer Science">Computer Science</option>
-        <option value="Mathematics">Mathematics</option>
-        <option value="Physics">Physics</option>
-        <option value="Cybersecurity">Cybersecurity</option>
+      <h2>Nearby Shops</h2>
+      <select id="shopFilter">
+        <option value="all">All Categories</option>
+        <option value="mart">Mart</option>
+        <option value="stationary">Stationary</option>
+        <option value="hotel">Hotel</option>
+        <option value="others">Others</option>
       </select>
     </div>
-    <div id="teacherList"><div class="loader"></div></div>
+    <div id="shopList"><div class="loader"></div></div>
   </div>
- 
+
   <!-- Footer -->
   <footer>
     <script src="/header/footer.js"></script>
   </footer>
 
-  <script src="/js files/datafetcher.js"></script>
-  <script src="/js files/renderer.js"></script>
-  <script src="/js files/filter.js"></script>
-  <script src="/js files/navbar.js"></script>
+  <script src="/js_files/datafetcher.js"></script>
+  <script src="/js_files/renderer.js"></script>
+  <script src="/js_files/filter.js"></script>
 </body>
 </html>

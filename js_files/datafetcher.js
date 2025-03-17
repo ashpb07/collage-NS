@@ -31,12 +31,6 @@ const fetchData = async () => {
     updateUI('clubsList', clubs, renderClubs);
     updateUI('labTableContainer', labs, renderLabs); // Render labs data
 
-
-    // Render Data in UI
-    updateUI('teacherList', teachers, renderTeachers);
-    updateUI('shopList', shops, renderShops);
-    updateUI('classroomTableContainer', classrooms, renderClassrooms);
-    updateUI('clubsList', clubs, renderClubs);
     
   } catch (err) {
     console.error('Error fetching data:', err);
@@ -44,6 +38,7 @@ const fetchData = async () => {
     showError('shopList', 'Failed to load shops.');
     showError('classroomTableContainer', 'Failed to load classrooms.');
     showError('clubsList', 'Failed to load clubs.');
+    showError('lablist', 'Failed to load labs.');
   }
 };
 

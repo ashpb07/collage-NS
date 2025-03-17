@@ -11,11 +11,12 @@ const navbarHTML = `
   </button>
   <ul class="navbar-menu">
     <button class="navbar-close">&times;</button>
-    <li><a href="/index.html">Home</a></li>
-    <li><a href="/main page/teacher.html">Teachers</a></li>
-    <li><a href="/main page/shops.html">Shops</a></li>
-    <li><a href="/main page/classrooms.html">Classrooms</a></li>
-    <li><a href="/main page/clubs.html">Clubs</a></li>
+    <hr><li><a href="/index.html">Home</a></li><hr>
+    <li><a href="/main_page/teacher.html">Teachers</a></li>
+    <li><a href="/main_page/shops.html">Shops</a></li>
+    <li><a href="/main_page/classrooms.html">Classrooms</a></li>
+    <li><a href="/main_page/clubs.html">Clubs</a></li>
+    <li><a href="/main_page/labs.html">labs</a></li>
   </ul>
   <div class="overlay"></div>
 `;
@@ -50,3 +51,5 @@ overlay.addEventListener('click', closeMenu); // FIX: Clicking outside now close
 document.querySelectorAll('.navbar-menu li a').forEach((link) => {
   link.addEventListener('click', closeMenu);
 });
+
+
