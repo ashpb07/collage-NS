@@ -6,26 +6,26 @@
       "email": "s.shyam@nitte.edu.in",
       "department": "Cybersecurity",
       "photo": "/images/shyam_kumar.jpg",
-      "officeLocation": "Block Ramanujan, floor-4",
-      "phoneNumber": "+1234567890"
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "4"
     },
     {
       "id": 2,
-      "name": "Jane Smith",
-      "email": "jane@example.com",
-      "department": "Mathematics",
-      "photo": "/images/jane-smith.jpg",
-      "officeLocation": "Block B, Room 202",
-      "phoneNumber": "+0987654321"
+      "name": "Dr. MANJUNATH KAMATH K",
+      "email": "manjunath.kamathk@nitte.edu.in",
+      "department": "Cybersecurity",
+      "photo": "/images/MANJUNATH_KAMATH.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "4"
     },
     {
       "id": 3,
-      "name": "Alice Johnson",
-      "email": "alice@example.com",
-      "department": "Physics",
-      "photo": "/images/alice-johnson.jpg",
-      "officeLocation": "Block C, Room 303",
-      "phoneNumber": "+1122334455"
+      "name": "Dr. ROSHAN FERNANDES",
+      "email": "mailto:roshan_nmamit@nitte.edu.in",
+      "department": "Cybersecurity",
+      "photo": "/images/ROSHAN_CYBERSEC.JPG",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "4"
     },
     {
       "id": 4,

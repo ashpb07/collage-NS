@@ -19,8 +19,8 @@ const renderTeachers = (data) => {
                 <strong>${teacher.name}</strong>
                 <span class="email">${teacher.email}</span>
                 <span class="department">${teacher.department}</span>
-                <span class="office">Office: ${teacher.officeLocation}</span>
-                <span class="phone">Phone: ${teacher.phoneNumber}</span>
+                <span class="office">Block: ${teacher.officeLocation}</span>
+                <span class="phone">Floor: ${teacher.phoneNumber}</span>
               </div>
             </div>
           `
