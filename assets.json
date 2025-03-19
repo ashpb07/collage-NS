@@ -35,7 +35,398 @@
       "photo": "/images/john-doe.jpg",
       "officeLocation": "Block A, Room 101",
       "phoneNumber": "+1234567890"
+    },
+    {
+      "id": 5,
+      "name": "Dr.  NIRANJAN N. CHIPLUNKAR",
+      "email": " principal_nmamit@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 6,
+      "name": "Mr. PIYUSH GOEL",
+      "email": " --",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 7,
+      "name": "Dr. D K SREEKANTHA",
+      "email": "  sreekantha@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 8,
+      "name": "Dr. VENKATRAMANA BHAT P",
+      "email": " pv.bhat@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 9,
+      "name": "Dr.ARAVIND C V",
+      "email": "  Aravinda.cv@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    }, 
+    {
+      "id": 10,
+      "name": "Dr.SARIKA HEGDE",
+      "email": " sarika.hegde@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 11,
+      "name": "Dr.SUDEEPA K B",
+      "email": " udeepa@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 12,
+      "name": "Dr.RAJU K",
+      "email": "  rajuk@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 13,
+      "name": "Dr. ANISHA P RODRIGUES",
+      "email": " anishapr@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 14,
+      "name": "Dr. PALLAVI K N",
+      "email": " pallavi@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 15,
+      "name": "Dr. SANNIDHAN M S",
+      "email": "  sannidhan@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 16,
+      "name": "Dr. SANDEEP KUMAR HEGDE",
+      "email": " sandeephegde@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 17,
+      "name": "Dr. SHABARI SHEDTHI B",
+      "email": " shabarishetty@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 18,
+      "name": "Dr. RAGHUNANDAN K R",
+      "email": " raghunandan@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 19,
+      "name": "Dr. RAJALAXMI HEGDE",
+      "email": "  rajalaxmihegde@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 20,
+      "name": "Dr. VIJAYA MURARI T",
+      "email": " vijayamurari.t@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 21,
+      "name": "Dr. PRADEEP KANCHAN",
+      "email": " pradeepkanchan@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 22,
+      "name": "Dr. KEERTHANA B CHIGATERI",
+      "email": " keerthanabc@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 23,
+      "name": "Mr. GURU PRASAD",
+      "email": " g.prasad@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 24,
+      "name": "Dr. SHASHANK SHETTY",
+      "email": " shashankshetty@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 25,
+      "name": "Ms. MINU P ABRAHAM.",
+      "email": "minupjuly12@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 26,
+      "name": "Mr. SAMPATH KINI",
+      "email": " sampath@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 27,
+      "name": "Mr. PAWAN HEGDE",
+      "email": " pwnhegde@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 28,
+      "name": "Ms. SHWETHA G K",
+      "email": "  gk.shwetha@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 29,
+      "name": "Ms. SAVITHA SHETTY",
+      "email": " shettysavi1@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 30,
+      "name": "Dr. PUNEETH R P",
+      "email": "  Puneeth.rp@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 31,
+      "name": "Ms. MANASA G R",
+      "email": "  manasagr@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 32,
+      "name": "Mr. SUNIL KUMAR AITHAL S",
+      "email": " sunilaithal@nitte.edu",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 33,
+      "name": "Ms. ANKITHA A NAYAK",
+      "email": "  ankitha@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 34,
+      "name": "Mr. ASHWIN SHENOY",
+      "email": " ashwin.shenoy@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 35,
+      "name": "Mrs. SHILPA KAREGOUDAR",
+      "email": "shilpamk@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 36,
+      "name": "Mrs. SOWMYA P",
+      "email": "sowmya.p@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 37,
+      "name": "Mr. AKHILRAJ V GADAGKAR",
+      "email": "akhilraj.gadagkar@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 38,
+      "name": "Ms. JAYAPADMINI KANCHAN",
+      "email": "jaya.padmini@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 39,
+      "name": "Mr. PRITHVIRAJ JAIN",
+      "email": "prithvi.jain@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 40,
+      "name": "Ms SOWMYA S",
+      "email": " sowmya.s@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 41,
+      "name": "Ms. RAJASHREE",
+      "email": "rajashree@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 42,
+      "name": "Ms. JOYLIN PRIYA PINTO",
+      "email": " joylinpriya@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 43,
+      "name": "Ms. ANUSHA ANCHAN",
+      "email": " anusha@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 44,
+      "name": "Ms.AISHWARYA. D. SHETTY",
+      "email": " aishwarya.shetty@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 45,
+      "name": "Mrs. SOUMYA ASHWATH",
+      "email": "soumya.ashwath@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 46,
+      "name": "Ms. VAISHALI BANGERA",
+      "email": " vaishali.bangera@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 47,
+      "name": "Ms. ANUPAMA H C",
+      "email": " anupama.hanni@nitte.edu.in",
+      "department": "Computer Science",
+      "photo": "/images/john-doe.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
     }
+    
+    
+    
+    
   ],
   "shops": [
     {
