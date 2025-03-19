@@ -471,10 +471,14 @@ footer p {
     width: 60%;
   }
 
+.club-list{
+  justify-item:center;
+}
+
 }
 .club-item {
-  display: flex;
-  justify-item:center;
+  display:flex;
+  flex-direction:column;
   align-items: center;
   background: #ffd3a6;
   border-radius: 12px;
