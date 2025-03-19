@@ -232,7 +232,7 @@ header h1 {
 
 .teacher-item {
   background-color: #ffd3a6;
-  padding: 0.5rem;
+  padding: 1rem;
   border-radius: 3px;
   border: 1px solid #461004;
   box-shadow: 9px 10px 0px #461004;
@@ -247,7 +247,7 @@ header h1 {
   width: 100px;
   height: 130px;
   border: 2px solid #461004;
-  border-radius: 3px;
+  border-radius: 5px;
   margin-right: 1rem;
   object-fit: cover;
   border: 1px solid #461004;
