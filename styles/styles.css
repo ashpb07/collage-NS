@@ -474,8 +474,7 @@ footer p {
 }
 .club-item {
   display: flex;
-  flex-direction: column;
-  justify-content:center;
+  justify-item:center;
   align-items: center;
   background: #ffd3a6;
   border-radius: 12px;
@@ -484,11 +483,6 @@ footer p {
   margin: 10px;
   width: 280px;
   text-align: center;
-  transition: transform 0.2s ease-in-out;
-}
-
-.club-item:hover {
-  transform: scale(1.05);
 }
 
 .club-photo {
