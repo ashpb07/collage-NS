@@ -475,8 +475,9 @@ footer p {
 .club-item {
   display: flex;
   flex-direction: column;
+  justify-content:center;
   align-items: center;
-  background: #ffffff;
+  background: #ffd3a6;
   border-radius: 12px;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
   padding: 16px;
@@ -496,7 +497,7 @@ footer p {
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 10px;
-  border: 2px solid #007bff;
+  filter: drop-shadow(10px 10px 15px rgba(0, 0, 0, 0.5));
 }
 
 .club-item strong {
