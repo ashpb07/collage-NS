@@ -428,12 +428,14 @@
     
     
   ],
+
+  
   "shops": [
     {
       "id": 1,
-      "name": "Cafe Coffee Day",
-      "distance": "0.5 km",
-      "category": "hotel",
+      "name": "Oven fresh ",
+      "distance": "near the left side entrance of the gate ",
+      "category": "Food stall",
       "photo": "/images/cafe-coffee-day.jpg",
       "openingHours": "8:00 AM - 10:00 PM",
       "contactInfo": "+1234567890"
@@ -599,7 +601,7 @@
   "clubs": [
     {
       "id": 1,
-      "photo": "/images/cafe-coffee-day.jpg",
+      "photo": "/images/image.png",
       "name": "Robotics Club",
       "category": "Technical",
       "president": "Dr. XYZ",

@@ -236,7 +236,7 @@ header h1 {
   padding: 1rem;
   border-radius: 3px;
   border: 1px solid #461004;
-  box-shadow: 9px 10px 0px #461004;
+  box-shadow: 7px 7px 0px #00000022;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -247,12 +247,11 @@ header h1 {
 .teacher-photo {
   width: 100px;
   height: 130px;
-  border: 2px solid #461004;
   border-radius: 5px;
   margin-right: 1rem;
   object-fit: cover;
   border: 1px solid #461004;
-  box-shadow: 4px 4.5px 0px #461004;
+  box-shadow: 4px 4px 0px #0000003d;
 }
 
 .teacher-details {
@@ -471,11 +470,13 @@ footer p {
     width: 60%;
   }
 
+}  
 .clubsList{
-  justify-item:center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
-}
 .club-item {
   display:flex;
   flex-direction:column;
