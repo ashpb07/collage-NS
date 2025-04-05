@@ -809,7 +809,300 @@
       "photo": "/images/rajashree_ri.jpg",
       "officeLocation": "RAMANUJAN",
       "phoneNumber": "G"
+    },
+    {
+      "id": 91,
+      "name": "Dr. RAMAKRISHNA",
+      "email": "ramakrishnab@nitte.edu.in",
+      "department": "Humanities",
+      "photo": "/images/rajashree_ri.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 92,
+      "name": "Ms. RAJASHREE NAMBIAR P",
+      "email": "  rashmihegde@nitte.edu.in",
+      "department": "Electrical",
+      "photo": "/images/rajashree_ri.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 93,
+      "name": "Dr. VISHWANATHA",
+      "email": " vishwanath_nmamit@nitte.edu.in",
+      "department": "Humanities",
+      "photo": "/images/vishwa.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 94,
+      "name": "Dr. JOY E MARTIS",
+      "email": " joymartis@nitte.edu.in",
+      "department": "Humanities",
+      "photo": "/images/joy.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 95,
+      "name": "Dr. PRAMOD KUMAR P S",
+      "email": "pramod.kumarps@nitte.edu.in",
+      "department": "Humanities",
+      "photo": "/images/pramod.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 96,
+      "name": "Ms. SHYLA MENDONCA",
+      "email": "  mendoncashyla@nitte.edu.in",
+      "department": "Humanities",
+      "photo": "/images/shyla.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 97,
+      "name": "Ms. SONIA LOBO",
+      "email": " sonialobo@nitte.edu.in",
+      "department": "Humanities",
+      "photo": "/images/sonia.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 98,
+      "name": "Ms. AKSHATHA KUMARI J SHETTY",
+      "email": " akshathaj.shetty@nitte.edu.in",
+      "department": "Humanities",
+      "photo": "/images/akshatha.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 99,
+      "name": "Dr. NAGESH PRABHU",
+      "email": " prabhunagesh@nitte.edu.in",
+      "department": "Electrical",
+      "photo": "/images/nagesh.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 100,
+      "name": "Dr. M SATYENDRA KUMAR SHET",
+      "email": "Satyendra@nitte.edu.in",
+      "department": "Electrical",
+      "photo": "/images/satya.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 101,
+      "name": "Dr. RASHMI ADYAPADY R",
+      "email": " rashmi.adyapady@nitte.edu.in",
+      "department": "AIML",
+      "photo": "/images/rashmi_adya.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 102,
+      "name": "Mr. SUDESH RAO",
+      "email": " sudesh.rao@nitte.edu.in",
+      "department": "AIML",
+      "photo": "/images/sudesh.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 103,
+      "name": "Ms. DISHA D N",
+      "email": " disha.dn@nitte.edu.in",
+      "department": "AIML",
+      "photo": "/images/disha.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 104,
+      "name": "Mr. MAHESH B L",
+      "email": " mahesh.bl@nitte.edu.in",
+      "department": "AIML",
+      "photo": "/images/mahesh.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 105,
+      "name": "Mr. ARUN M KUDUR",
+      "email": "--",
+      "department": "AIML",
+      "photo": "/images/arun.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 106,
+      "name": "Dr. SHARADA U SHENOY",
+      "email": "sharadauday@nitte.edu.in",
+      "department": "AIML",
+      "photo": "/images/sharada.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 106,
+      "name": "Ms. SWATHI PAI M",
+      "email": "swathi.pai@nitte.edu.in",
+      "department": "AIML",
+      "photo": "/images/swathi.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 107,
+      "name": "Ms. SNEHA SHETTY R",
+      "email": " sneha.r@nitte.edu.in",
+      "department": "AIML",
+      "photo": "/images/sneha.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    }, 
+    
+    {
+      "id": 108,
+      "name": "Ms. SMITHA",
+      "email": "smitha.rai@nitte.edu.in",
+      "department": "AIML",
+      "photo": "/images/smitha.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    
+    {
+      "id": 109,
+      "name": "Ms. RAKSHITHA",
+      "email": " rakshitha.s@nitte.edu.in",
+      "department": "AIML",
+      "photo": "/images/rakshita.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 110,
+      "name": "Dr. VENUGOPALA P S",
+      "email": "venugopalaps@nitte.edu.in",
+      "department": "AI-DS",
+      "photo": "/images/venugopala.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 112,
+      "name": "Mr. SRINIVAS NEKKAR",
+      "email": "srinivas.nekkar16@nitte.edu. in",
+      "department": "AIML",
+      "photo": "/images/srinivas.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 113,
+      "name": "Ms. SHWETHA BHARATH",
+      "email": " shwethabharath24@nitte.edu.in",
+      "department": "AIML",
+      "photo": "/images/shwetha.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 114,
+      "name": "Ms. SOUMYASHREE R BANGERA",
+      "email": " Soumyashree.bangera@nitte.edu.in",
+      "department": "AIML",
+      "photo": "/images/soumyashree.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 115,
+      "name": "Ms. SANCHITA C M",
+      "email": " sanchita.cm@nitte.edu.in",
+      "department": "AI-DS",
+      "photo": "/images/sanchita.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 116,
+      "name": "Ms. ASHWINI D Y",
+      "email": " ashwini.dy@nitte.edu.in",
+      "department": "Humanities",
+      "photo": "/images/ashwini_hu.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 117,
+      "name": "Dr. ANKITHA K",
+      "email": " ankitha.praj@nitte.edu.in",
+      "department": "AI-DS",
+      "photo": "/images/ankitha.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 118,
+      "name": "Dr. NAVANEETH BHASKAR",
+      "email": " navaneeth.bhaskar@nitte.edu.in",
+      "department": "AI-DS",
+      "photo": "/images/navaneeth.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 119,
+      "name": "Dr. PRAVEEN M NAIK",
+      "email": " praveen.naik@nitte.edu.in",
+      "department": "AI-DS",
+      "photo": "/images/praveen.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 120,
+      "name": "Mr. PRAJWAL HEGDE N",
+      "email": " prajwal.hegde@nitte.edu.in",
+      "department": "AI-DS",
+      "photo": "/images/prajwal.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 121,
+      "name": "Ms. ANKITHA SHETTY",
+      "email": "anki.shetty@nitte.edu.in",
+      "department": "AI-DS",
+      "photo": "/images/ankitha_ds.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 122,
+      "name": "Mr. MURALI S IYER",
+      "email": " muralis.iyer@nitte.edu.in",
+      "department": "AI-DS",
+      "photo": "/images/murali.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
     }
+    
+    
+
  
  
     
