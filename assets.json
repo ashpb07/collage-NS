@@ -821,10 +821,10 @@
     },
     {
       "id": 92,
-      "name": "Ms. RAJASHREE NAMBIAR P",
-      "email": "  rashmihegde@nitte.edu.in",
-      "department": "Electrical",
-      "photo": "/images/rajashree_ri.jpg",
+      "name": "Dr. MANJUNATHA K B",
+      "email": "manjukb15@nitte.edu.in",
+      "department": "Physics",
+      "photo": "/images/manjunatha.jpg",
       "officeLocation": "RAMANUJAN",
       "phoneNumber": "G"
     },
@@ -915,8 +915,8 @@
       "email": " sudesh.rao@nitte.edu.in",
       "department": "AIML",
       "photo": "/images/sudesh.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "5"
     },
     {
       "id": 103,
@@ -924,8 +924,8 @@
       "email": " disha.dn@nitte.edu.in",
       "department": "AIML",
       "photo": "/images/disha.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "5"
     },
     {
       "id": 104,
@@ -933,8 +933,8 @@
       "email": " mahesh.bl@nitte.edu.in",
       "department": "AIML",
       "photo": "/images/mahesh.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "5"
     },
     {
       "id": 105,
@@ -942,8 +942,8 @@
       "email": "--",
       "department": "AIML",
       "photo": "/images/arun.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "5"
     },
     {
       "id": 106,
@@ -951,8 +951,8 @@
       "email": "sharadauday@nitte.edu.in",
       "department": "AIML",
       "photo": "/images/sharada.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "5"
     },
     {
       "id": 106,
@@ -960,8 +960,8 @@
       "email": "swathi.pai@nitte.edu.in",
       "department": "AIML",
       "photo": "/images/swathi.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "5"
     },
     {
       "id": 107,
@@ -969,8 +969,8 @@
       "email": " sneha.r@nitte.edu.in",
       "department": "AIML",
       "photo": "/images/sneha.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "5"
     }, 
     
     {
@@ -979,8 +979,8 @@
       "email": "smitha.rai@nitte.edu.in",
       "department": "AIML",
       "photo": "/images/smitha.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "5"
     },
     
     {
@@ -989,8 +989,8 @@
       "email": " rakshitha.s@nitte.edu.in",
       "department": "AIML",
       "photo": "/images/rakshita.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "5"
     },
     {
       "id": 110,
@@ -998,8 +998,8 @@
       "email": "venugopalaps@nitte.edu.in",
       "department": "AI-DS",
       "photo": "/images/venugopala.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "5"
     },
     {
       "id": 112,
@@ -1052,8 +1052,8 @@
       "email": " ankitha.praj@nitte.edu.in",
       "department": "AI-DS",
       "photo": "/images/ankitha.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "5"
     },
     {
       "id": 118,
@@ -1061,8 +1061,8 @@
       "email": " navaneeth.bhaskar@nitte.edu.in",
       "department": "AI-DS",
       "photo": "/images/navaneeth.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "5"
     },
     {
       "id": 119,
@@ -1070,8 +1070,8 @@
       "email": " praveen.naik@nitte.edu.in",
       "department": "AI-DS",
       "photo": "/images/praveen.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "5"
     },
     {
       "id": 120,
@@ -1079,8 +1079,8 @@
       "email": " prajwal.hegde@nitte.edu.in",
       "department": "AI-DS",
       "photo": "/images/prajwal.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "5"
     },
     {
       "id": 121,
@@ -1088,8 +1088,8 @@
       "email": "anki.shetty@nitte.edu.in",
       "department": "AI-DS",
       "photo": "/images/ankitha_ds.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "5"
     },
     {
       "id": 122,
@@ -1099,10 +1099,502 @@
       "photo": "/images/murali.jpg",
       "officeLocation": "RAMANUJAN",
       "phoneNumber": "G"
+    },
+    {
+      "id": 123,
+      "name": "Dr. SHOBHA R PRABHU",
+      "email": " shobha@nitte.edu.in",
+      "department": "Physics",
+      "photo": "/images/shoba.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 124,
+      "name": "Dr. RAGHAVENDRA BAIRY",
+      "email": " rbairy@nitte.edu.in",
+      "department": "Physics",
+      "photo": "/images/ragha.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 125,
+      "name": "Dr. NAGARAJA B S",
+      "email": " nagarajbs@nitte.edu.in",
+      "department": "Physics",
+      "photo": "/images/nagraja.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 126,
+      "name": "Dr. SHYAM PRASAD K",
+      "email": "kolurshyamprasad@nitte.edu.in",
+      "department": "Physics",
+      "photo": "/images/shyam.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 127,
+      "name": "Dr. SARITHA SUVARNA",
+      "email": "suvarnasaritha31@nitte.edu.in",
+      "department": "Physics",
+      "photo": "/images/saritha.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 128,
+      "name": "Dr. MURARI M S",
+      "email": "murarims.pape@nitte.edu.in",
+      "department": "Physics",
+      "photo": "/images/murari.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 129,
+      "name": "Dr. PAWAN KUMAR",
+      "email": "pawan.kumar@nitte.edu.in",
+      "department": "Physics",
+      "photo": "/images/pawan_phy.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 130,
+      "name": "Dr. JANARDHAN NAYAK",
+      "email": "jnayak@nitte.edu.in",
+      "department": "Chemistry",
+      "photo": "/images/jana.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 131,
+      "name": "Dr. RAMESH BHAT",
+      "email": "rameshbhat@nitte.edu.in",
+      "department": "Chemistry",
+      "photo": "/images/ramesh_che.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 132,
+      "name": "Dr. SHIVAPRASAD SHETTY M",
+      "email": "shivaprasad@nitte.edu.in",
+      "department": "Chemistry",
+      "photo": "/images/shiva.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 133,
+      "name": "Dr. SANTOSH K. TIWARI",
+      "email": "santosh.tiwari@nitte.edu.in",
+      "department": "Chemistry",
+      "photo": "/images/santhosh_che.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 134,
+      "name": "Dr. AARTI S BHATT",
+      "email": " aartis@nitte.edu.in",
+      "department": "Chemistry",
+      "photo": "/images/aarti.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 135,
+      "name": "Dr. SUBRAHMANYA ISHWAR BHAT",
+      "email": " subrahmanya@nitte.edu.in",
+      "department": "Chemistry",
+      "photo": "/images/subra.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 136,
+      "name": "Dr. SARVAJITH M S",
+      "email": "sarvajith@nitte.edu.in",
+      "department": "Chemistry",
+      "photo": "/images/sarvajith.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 137,
+      "name": "Dr. RANJITHA RAI",
+      "email": " ranjitha.rai@nitte.edu.in",
+      "department": "Chemistry",
+      "photo": "/images/ranjitha.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 138,
+      "name": "DR. SHREYA KANTH",
+      "email": " shreya.kanth@nitte.edu.in",
+      "department": "Chemistry",
+      "photo": "/images/shreya.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 139,
+      "name": "Dr. SHRINIVASA RAO B.R.",
+      "email": " coe.nmamit@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/shri.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 140,
+      "name": "Dr. SUBRAHMANYA BHAT K.",
+      "email": " subrahmanyabhat@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/subrah.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 141,
+      "name": "Dr. SUDESH BEKAL",
+      "email": " sudeshbekal@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/sudesh_me.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 142,
+      "name": "Dr. SRINIVASA PAI P.",
+      "email": " srinivasapai@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/srinivasa.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 143,
+      "name": "Dr. NARASIMHA MARAKALA",
+      "email": " nmarakala@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/narashimha.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 144,
+      "name": "Dr. MALLIKAPPA",
+      "email": " drmallikappa@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/malli.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 145,
+      "name": "Dr. NARASIMHA K. BAILKERI",
+      "email": " nkbailkeri@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/nara.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 146,
+      "name": "Dr. GURURAJ UPADHYAYA",
+      "email": " gururaj@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/gururaj.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 147,
+      "name": "Dr. M. ANANTHA KRISHNA SOMAYAJI",
+      "email": " aksomayaji8@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/anantha.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 148,
+      "name": "Dr. UDAYA D",
+      "email": " udaya_d@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/udaya.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 149,
+      "name": "Dr. KUMAR H. S.",
+      "email": " urkumar2006@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/kumar.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 150,
+      "name": "Dr. AJIT M. HEBBALE",
+      "email": " ajith.hebbale@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/ajit.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 151,
+      "name": "Dr. VIJEESH V",
+      "email": " vijeeshv@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/vijeesh.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 152,
+      "name": "Dr. NITHIN KUMAR",
+      "email": " nithinmech33@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/nithin.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 153,
+      "name": "Dr. GRYNAL D MELLO",
+      "email": " grynal@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/grynal.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 154,
+      "name": "Dr. SURESH SHETTY",
+      "email": " shettysuresh09@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/suresh.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 155,
+      "name": "Dr. VIDYASAGAR SHETTY",
+      "email": "vidyasagarshetty@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/vidya.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 156,
+      "name": "Mr. RAVISHANKAR BHAT S",
+      "email": " ravishankarbhat@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/ravish.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 157,
+      "name": "Dr. RAVINDRA",
+      "email": " ravindra@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/ravindra.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 158,
+      "name": "Mr. P. VENKATESH MURTHY",
+      "email": " pvenkateshmurthy@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/venka.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 159,
+      "name": "Dr. AUSTINE DINESH D'SOUZAY",
+      "email": "austindinesh@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/austine.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 160,
+      "name": "Dr. SANTHOSH G.",
+      "email": " santhug099@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/santhosh_me.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 161,
+      "name": "Dr. H.S SHARATH CHANDRA",
+      "email": " sharathchandrahs@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/hs.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 162,
+      "name": "Dr. VISHWANATHA J. S.",
+      "email": " vishwajs@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/vish.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 163,
+      "name": "Dr. DILIP KUMAR K.",
+      "email": " dilk333@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/dilip.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 164,
+      "name": "Dr. DIVIJESH PUNINCHATHAYA P.",
+      "email": " divijesh@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/divi.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 164,
+      "name": "Mr. RAJATH N. RAO",
+      "email": " rajathnrao@gmail.com",
+      "department": "Mechanical",
+      "photo": "/images/rajnath.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 165,
+      "name": "Dr. KRISHNAPRASAD S",
+      "email": " kprao@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/krishna.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 166,
+      "name": "Dr. MELWYN RAJESH CASTELINO",
+      "email": " melwyn@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/melwyn.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 167,
+      "name": "Mr. RAVIKIRAN KAMATH B.",
+      "email": "  ravikiran@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/ravikiran.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 168,
+      "name": "Mr. SRINIVAS PRABHU M.",
+      "email": "srikles@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/srini.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 169,
+      "name": "Mr. MANJUNATH MAIYA",
+      "email": " manjunath.maiya@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/manjunath.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 170,
+      "name": "Mr. GAUTAMA HEBBAR A.",
+      "email": " gouthamahebbar@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/gautama.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 171,
+      "name": "Mr. BHASKARA P.",
+      "email": "bhaskarap@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/bhaskara.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 172,
+      "name": "Mr. MOHAN POOJARI",
+      "email": "  mohan@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/mohan.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 173,
+      "name": "Mr. SUNIL KUMAR SHETTY",
+      "email": "sunilkumarshetty@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/sunil_me.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 174,
+      "name": "Mr. RAGHAVENDRA PAI K.",
+      "email": " pairaghu@nitte.edu.in",
+      "department": "Mechanical",
+      "photo": "/images/raghaven.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 175,
+      "name": "Dr. UJWAL P",
+      "email": " ujwal.p@nitte.edu.in",
+      "department": "Biotecnology",
+      "photo": "/images/ujwal.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 176,
+      "name": "Dr. VIDYA S M",
+      "email": "Dr. VIDYA S M",
+      "department": "Biotecnology",
+      "photo": "/images/vidya_bt.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
     }
-    
-    
-
  
  
     
