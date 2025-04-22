@@ -815,7 +815,7 @@
       "name": "Dr. RAMAKRISHNA",
       "email": "ramakrishnab@nitte.edu.in",
       "department": "Humanities",
-      "photo": "/images/rajashree_ri.jpg",
+      "photo": "/images/ramakrishna.jpg",
       "officeLocation": "RAMANUJAN",
       "phoneNumber": "G"
     },
@@ -945,15 +945,7 @@
       "officeLocation": "M VISVESVARAYA",
       "phoneNumber": "5"
     },
-    {
-      "id": 106,
-      "name": "Dr. SHARADA U SHENOY",
-      "email": "sharadauday@nitte.edu.in",
-      "department": "AIML",
-      "photo": "/images/sharada.jpg",
-      "officeLocation": "M VISVESVARAYA",
-      "phoneNumber": "5"
-    },
+  
     {
       "id": 106,
       "name": "Ms. SWATHI PAI M",
@@ -1051,7 +1043,7 @@
       "name": "Dr. ANKITHA K",
       "email": " ankitha.praj@nitte.edu.in",
       "department": "AI-DS",
-      "photo": "/images/ankitha.jpg",
+      "photo": "/images/anki.jpg",
       "officeLocation": "M VISVESVARAYA",
       "phoneNumber": "5"
     },
@@ -1478,15 +1470,7 @@
       "officeLocation": "RAMANUJAN",
       "phoneNumber": "G"
     },
-    {
-      "id": 164,
-      "name": "Mr. RAJATH N. RAO",
-      "email": " rajathnrao@gmail.com",
-      "department": "Mechanical",
-      "photo": "/images/rajnath.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
-    },
+ 
     {
       "id": 165,
       "name": "Dr. KRISHNAPRASAD S",
@@ -1592,6 +1576,33 @@
       "email": "Dr. VIDYA S M",
       "department": "Biotecnology",
       "photo": "/images/vidya_bt.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 177,
+      "name": "Dr. SHARADA U SHENOY",
+      "email": "sharadauday@nitte.edu.in",
+      "department": "AIML",
+      "photo": "/images/sharada.jpg",
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "5"
+    },
+    {
+      "id": 178,
+      "name": "Mr. RAJATH N. RAO",
+      "email": " rajathnrao@gmail.com",
+      "department": "Mechanical",
+      "photo": "/images/rajnath.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 178,
+      "name": "Dr. ASHWINI B",
+      "email": " ashwinib@nitte.edu.in",
+      "department": "Information Science",
+      "photo": "/images/ashwini.jpg",
       "officeLocation": "RAMANUJAN",
       "phoneNumber": "G"
     }
