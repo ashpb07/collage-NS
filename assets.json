@@ -1974,7 +1974,524 @@
       "photo": "/images/smitha_ma.jpg",
       "officeLocation": "C V RAMAN",
       "phoneNumber": "3"
+    },
+    {
+      "id": 221,
+      "name": "Dr. SURYANARAYANA K",
+      "email": " suryanarayana@nitte.edu.in",
+      "department": "Electrical",
+      "photo": "/images/su.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 222,
+      "name": "Dr. RAJALAKSHMI SAMAGA B L",
+      "email": " raji.samaga@nitte.edu.in",
+      "department": "Electrical",
+      "photo": "/images/rj.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 223,
+      "name": "Dr. NAYANA SHETTY",
+      "email": " nayanashetty@nitte.edu.in",
+      "department": "Electrical",
+      "photo": "/images/nayana.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 224,
+      "name": "Dr. ANITHA MARINA COLACO",
+      "email": " anithamp81@nitte.edu.in",
+      "department": "Electrical",
+      "photo": "/images/marina.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 225,
+      "name": "Dr. K. LATHA SHENOY",
+      "email": " lathashenoy@nitte.edu.in",
+      "department": "Maths",
+      "photo": "/images/latha.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 226,
+      "name": "Dr. GIRISHA JOSHI",
+      "email": "girishjoshi85@nitte.edu.in",
+      "department": "Maths",
+      "photo": "/images/girisha.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 227,
+      "name": "Mr. NAVEEN J",
+      "email": " naveenchikmaglur@nitte.edu.in",
+      "department": "Electrical",
+      "photo": "/images/naveen.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 228,
+      "name": "Mr. PRADEEP KUMAR",
+      "email": "  pradeep@nitte.edu.in",
+      "department": "Electrical",
+      "photo": "/images/pradeep_el.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 229,
+      "name": "Dr. DINESH SHETTY",
+      "email": "dinesh1383@nitte.edu.in",
+      "department": "Electrical",
+      "photo": "/images/dinesh.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 230,
+      "name": "Dr. KRISHNA RAO",
+      "email": "--",
+      "department": "Electrical",
+      "photo": "/images/krish.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 231,
+      "name": "Dr. DHANANJAYA B",
+      "email": "Dhananjay.b@nitte.edu.in",
+      "department": "Electrical",
+      "photo": "/images/dhan.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 232,
+      "name": "Dr. N S S RAMAKRISHNA",
+      "email": " ramakrishna.n@nitte.edu.in",
+      "department": "Electrical",
+      "photo": "/images/nss.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+
+
+    {
+      "id": 233,
+      "name": "Dr. PRAMOD BHAT NEMPU",
+      "email": "pramod.bhat@nitte.edu.in",
+      "department": "Electrical",
+      "photo": "/images/nempu.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+
+
+    {
+      "id": 234,
+      "name": "Dr. NANDINI K K",
+      "email": " nandini.kk@nitte.edu.in",
+      "department": "Electrical",
+      "photo": "/images/nandini.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+
+
+    {
+      "id": 235,
+      "name": "Mr. MAHABALESHWARA SHARMA K",
+      "email": " mahabaleshwara@nitte.edu.in",
+      "department": "Electrical",
+      "photo": "/images/maha.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 236,
+      "name": "Ms. RAKSHA ADAPPA",
+      "email": "raksha@nitte.edu.in",
+      "department": "Electrical",
+      "photo": "/images/raksha.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+
+
+    {
+      "id": 237,
+      "name": "Mr. RAVIKIRAN RAO M",
+      "email": " ravikiranraom@nitte.edu.in",
+      "department": "Electrical",
+      "photo": "/images/ravikiran_el.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+
+
+    {
+      "id": 238,
+      "name": "Mr. GURURAJ K",
+      "email": " raos2k@nitte.edu.in",
+      "department": "Electrical",
+      "photo": "/images/g.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+
+
+    {
+      "id": 239,
+      "name": "Dr. CHETAN D M",
+      "email": " chetan@nitte.edu.in",
+      "department": "Biotecnology",
+      "photo": "/images/chetan.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+
+
+    {
+      "id": 240,
+      "name": " Dr. SHYAMA PRASAD SAJANKILA",
+      "email": " shyama.sajankila@nitte.edu.in",
+      "department": "Biotecnology",
+      "photo": "/images/shyma.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+
+
+    {
+      "id": 241,
+      "name": "Dr. ANIL KUMAR H S",
+      "email": " anilkumar@nitte.edu.in ",
+      "department": "Biotecnology",
+      "photo": "/images/anil.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+
+
+    {
+      "id": 242,
+      "name": "Dr. VINAYAKA B SHET",
+      "email": " vinayakabshet@nitte.edu.in",
+      "department": "Biotecnology",
+      "photo": "/images/vin.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+
+
+    {
+      "id": 243,
+      "name": "Dr. SANTHOSH POOJARY",
+      "email": " santhoshnellikatte@nitte.edu.in",
+      "department": "Biotecnology",
+      "photo": "/images/san.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 244,
+      "name": "Dr. VENKATESH KAMATH H",
+      "email": "  venkatesh@nitte.edu.in",
+      "department": "Biotecnology",
+      "photo": "/images/ve.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 245,
+      "name": "Dr. SANDESH K.",
+      "email": "sandeshk@nitte.edu.in",
+      "department": "Biotecnology",
+      "photo": "/images/sandesh.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 246,
+      "name": "Dr. ULLAL HARSHINI DEVI",
+      "email": " ullalharshini@nitte.edu.in",
+      "department": "Biotecnology",
+      "photo": "/images/ullal.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 247,
+      "name": "Dr. SNEHA NAYAK",
+      "email": " snehanayak@nitte.edu.in",
+      "department": "Biotecnology",
+      "photo": "/images/sne.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 248,
+      "name": "Dr. LOUELLA CONCEPTA GOVEAS.",
+      "email": "  goveas.louella@nitte.edu.in",
+      "department": "Biotecnology",
+      "photo": "/images/loue.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 249,
+      "name": "Dr. HARSHITHA M JATHANNA",
+      "email": " harshithaj@nitte.edu.in",
+      "department": "Biotecnology",
+      "photo": "/images/harshitha.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 250,
+      "name": "Dr. REKHA BHANDARKAR",
+      "email": " rekhabhandarkar@nitte.edu.in",
+      "department": "Electronics & Communication",
+      "photo": "/images/rekha.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 251,
+      "name": "Dr. K RAJESH SHETTY",
+      "email": " krshetty@nitte.edu.in",
+      "department": "Electronics & Communication",
+      "photo": "/images/rajesh.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 252,
+      "name": "Dr. K V S S S S SAIRAM",
+      "email": " drsairam@nitte.edu.in",
+      "department": "Electronics & Communication",
+      "photo": "/images/sairam.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 253,
+      "name": "Dr. VEENA DEVI SHASTRIMATH V.",
+      "email": " veenadevi@nitte.edu.in",
+      "department": "Electronics & Communication",
+      "photo": "/images/veena.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 254,
+      "name": "Dr. PRABHA NIRANJAN",
+      "email": "prabhan@nitte.edu.in",
+      "department": "Electronics & Communication",
+      "photo": "/images/prabha.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 255,
+      "name": "Dr. K S SHIVAPRAKASHA",
+      "email": " shivaprakasha.ks@nitte.edu.in",
+      "department": "Electronics & Communication",
+      "photo": "/images/prakasha.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+
+    {
+      "id": 256,
+      "name": "Dr. KRISHNANAND SHET",
+      "email": " konikrishna@nitte.edu.in",
+      "department": "Electronics & Communication",
+      "photo": "/images/shet.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+
+    {
+      "id": 257,
+      "name": "Dr. SUBRAMANYA BHAT",
+      "email": " sbhat22@nitte.edu.in",
+      "department": "Electronics & Communication",
+      "photo": "/images/subram.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+
+    {
+      "id": 258,
+      "name": "Dr. SHANKAR B B",
+      "email": " shankarbb@nitte.edu.in",
+      "department": "Electronics & Communication",
+      "photo": "/images/shankar.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+
+    {
+      "id": 259,
+      "name": "Dr. VIDYA KUDVA",
+      "email": " vidyakudva@nitte.edu.in",
+      "department": "Electronics & Communication",
+      "photo": "/images/vid.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+
+    {
+      "id": 260,
+      "name": " Dr. ROOPA B HEGDE",
+      "email": "roopabhegde@nitte.edu.in  ",
+      "department": "Electronics & Communication",
+      "photo": "/images/roopa.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 261,
+      "name": " Dr. SUKESH RAO M",
+      "email": " sukesh@nitte.edu.in  ",
+      "department": "Electronics & Communication",
+      "photo": "/images/sukesh.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 262,
+      "name": "Dr. MAMATHA GIRISH",
+      "email": " mamatha.girish@nitte.edu.in  ",
+      "department": "Electronics & Communication",
+      "photo": "/images/mamatha.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 263,
+      "name": "Dr. SHRIVIDYA G",
+      "email": " shrividyagp@nitte.edu.in  ",
+      "department": "Electronics & Communication",
+      "photo": "/images/shrividya.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 264,
+      "name": "Dr. PADMAVATHI K",
+      "email": "padmavathik@nitte.edu.in  ",
+      "department": "Electronics & Communication",
+      "photo": "/images/pad.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 265,
+      "name": " Mr. MAHAVEERA K",
+      "email": "mahaveera _nmamit@nitte.edu.in  ",
+      "department": "Electronics & Communication",
+      "photo": "/images/mahaveera.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 266,
+      "name": " Ms. SUNITHA LASRADO",
+      "email": " sunithadsouza@nitte.edu.in  ",
+      "department": "Electronics & Communication",
+      "photo": "/images/sunitha.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 267,
+      "name": "Dr. SATHEESH RAO",
+      "email": " Satheesh.rao@nitte.edu.in  ",
+      "department": "Electronics & Communication",
+      "photo": "/images/sateesh.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 268,
+      "name": " Dr. SHIVAKUMAR B R",
+      "email": " shivkumarbr@nitte.edu.in ",
+      "department": "Electronics & Communication",
+      "photo": "/images/shivakumar.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 269,
+      "name": "Dr. ANUSHA R SHARATH",
+      "email": " anushar@nitte.edu.in",
+      "department": "Electronics & Communication",
+      "photo": "/images/anu.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 270,
+      "name": "Dr. BOMMEGOWDA K B",
+      "email": " bgowda_kbl@nitte.edu.in",
+      "department": "Electronics & Communication",
+      "photo": "/images/bomme.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 271,
+      "name": "Dr. KAVITHA S",
+      "email": " kavitha@nitte.edu.in",
+      "department": "Electronics & Communication",
+      "photo": "/images/kavitha.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 272,
+      "name": "Dr. CHARISHMA",
+      "email": " shettycharishma@nitte.edu.in",
+      "department": "Electronics & Communication",
+      "photo": "/images/chari.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 273,
+      "name": "Dr. SHUBHA B.",
+      "email": " shubhab@nitte.edu.in",
+      "department": "Electronics & Communication",
+      "photo": "/images/shubha.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 274,
+      "name": "Dr. ANUSHA R SHARATH",
+      "email": " anushar@nitte.edu.in",
+      "department": "Electronics & Communication",
+      "photo": "/images/harshitha.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
     }
+
+
+
+
+
+  
 
 
 
