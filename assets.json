@@ -42,7 +42,7 @@
       "email": " principal_nmamit@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/niranjan.jpg",
-      "officeLocation": "RAMANUJAN",
+      "officeLocation": "A P J",
       "phoneNumber": "G"
     },
     {
@@ -69,8 +69,8 @@
       "email": " pv.bhat@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/venktramana.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 9,
@@ -78,8 +78,8 @@
       "email": "  Aravinda.cv@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/aravind.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     }, 
     {
       "id": 10,
@@ -87,8 +87,8 @@
       "email": " sarika.hegde@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/sarika.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 11,
