@@ -14,12 +14,7 @@ const footerHTML = `
 
     <!-- Social Media Links -->
     <div class="footer-social">
-      <h3>Follow Us</h3>
       <div class="social-links">
-        <a href="#" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
-        <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-        <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
-        <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
       </div>
     </div>
 
@@ -30,6 +25,7 @@ const footerHTML = `
         <input type="email" placeholder="Enter your email" required />
         <button type="submit">Subscribe</button>
       </form>
+      <p class="thank-you-message" style="display:none; color: green; margin-top: 10px;">Thank you for subscribing!</p>
     </div>
   </div>
 
@@ -44,3 +40,13 @@ const footerHTML = `
 
 // Append the footer HTML to the footer container
 footerContainer.innerHTML = footerHTML;
+
+// Add event listener for newsletter form submission
+const newsletterForm = footerContainer.querySelector('.newsletter-form');
+const thankYouMessage = footerContainer.querySelector('.thank-you-message');
+
+newsletterForm.addEventListener('submit', function(event) {
+  event.preventDefault();
+  newsletterForm.style.display = 'none';
+  thankYouMessage.style.display = 'block';
+});

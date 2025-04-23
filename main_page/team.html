@@ -17,12 +17,14 @@
     }
 
     .team-member {
-      flex: 1 1 300px;
       margin: 1rem;
       padding: 1rem;
       border: 1px solid #ccc;
       border-radius: 10px;
       text-align: center;
+      max-width: 350px;
+      height: 300px;
+      width: 250px;
     }
 
     .team-member img {
@@ -69,43 +71,14 @@
 
   <main>
     <section class="team-members">
-      <div class="team-member">
-        <img src="https://storage.googleapis.com/a1aa/image/4r09sqVUyLUCIv2YaThUffHjDsyrp4yFNOsvDvM9Xn4.jpg" alt="Team Member 1">
-        <h2>Rahul Kumar</h2>
-        <p>Web Developer</p>
-        <div class="social-links">
-          <a href="https://www.linkedin.com/in/rahulkumarwebdev/" target="_blank"><i class="fab fa-linkedin"></i></a>
-          <a href="https://twitter.com/rahulkumarweb" target="_blank"><i class="fab fa-twitter"></i></a>
-          <a href="https://github.com/rahulkumarweb" target="_blank"><i class="fab fa-github"></i></a>
-        </div>
-      </div>
-      <div class="team-member">
-        <img src="https://storage.googleapis.com/a1aa/image/G-CcFEl-BQS-TCeBC0eEEBC9TuBRW1iqaGRo_Kk2v_o.jpg" alt="Team Member 2">
-        <h2>Ashish Kumar</h2>
-        <p>Web Developer</p>
-        <div class="social-links">
-          <a href="https://www.linkedin.com/in/ashishkumarwebdev/" target="_blank"><i class="fab fa-linkedin"></i></a>
-          <a href="https://twitter.com/ashishkumarweb" target="_blank"><i class="fab fa-twitter"></i></a>
-          <a href="https://github.com/ashishkumarweb" target="_blank"><i class="fab fa-github"></i></a>
-        </div>
-      </div>
-      <div class="team-member">
-        <img src="https://storage.googleapis.com/a1aa/image/GAaYn1py06poV6W1hnHKWbfYX2RZb7V7_nn4a9hWt7g.jpg" alt="Team Member 3">
-        <h2>Abhay Pratap Singh</h2>
-        <p>Web Developer</p>
-        <div class="social-links">
-          <a href="https://www.linkedin.com/in/abhaypratapsingh/" target="_blank"><i class="fab fa-linkedin"></i></a>
-          <a href="https://twitter.com/abhaypsingh" target="_blank"><i class="fab fa-twitter"></i></a>
-          <a href="https://github.com/abhaypsingh" target="_blank"><i class="fab fa-github"></i></a>
-        </div>
-      </div>
+      <div id="team-members-container" class="team-members"></div>
     </section>
   </main>
 
   <footer>
     <script src="/header/footer.js"></script>
   </footer>
+  <script src="/js_files/team.js"></script>
 </body>
-
 </html>
 

@@ -14,9 +14,8 @@ const navbarHTML = `
     <hr><li><a href="/index.html">Home</a></li><hr>
     <li><a href="/main_page/teacher.html">Teachers</a></li>
     <li><a href="/main_page/shops.html">Shops</a></li>
-    <li><a href="/main_page/classrooms.html">Classrooms</a></li>
-    <li><a href="/main_page/clubs.html">Clubs</a></li>
-    <li><a href="/main_page/labs.html">labs</a></li>
+    <li><a href="/main_page/classrooms.html">Classrooms</a></li><hr>
+    <li><a href="/main_page/team.html">team</a></li>
   </ul>
   <div class="overlay"></div>
 `;
