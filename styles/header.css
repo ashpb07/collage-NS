@@ -83,14 +83,14 @@
 
 /* Apply delay to each <li> for staggered effect */
 .navbar-menu.active li:nth-child(1) { animation: slideIn 0.5s ease-out forwards 0.1s; }
-.navbar-menu.active li:nth-child(2) { animation: slideIn 0.5s ease-out forwards 0.2s; }
-.navbar-menu.active li:nth-child(3) { animation: slideIn 0.5s ease-out forwards 0.3s; }
-.navbar-menu.active li:nth-child(4) { animation: slideIn 0.5s ease-out forwards 0.4s; }
-.navbar-menu.active li:nth-child(5) { animation: slideIn 0.5s ease-out forwards 0.5s; }
-.navbar-menu.active li:nth-child(6) { animation: slideIn 0.5s ease-out forwards 0.6s; }
-.navbar-menu.active li:nth-child(7) { animation: slideIn 0.5s ease-out forwards 0.7s; }
-.navbar-menu.active li:nth-child(8) { animation: slideIn 0.5s ease-out forwards 0.8s; }
-.navbar-menu.active li:nth-child(9) { animation: slideIn 0.5s ease-out forwards 0.9s; }
+.navbar-menu.active li:nth-child(2) { animation: slideIn 0.5s ease-out forwards 0.15s; }
+.navbar-menu.active li:nth-child(3) { animation: slideIn 0.5s ease-out forwards 0.2s; }
+.navbar-menu.active li:nth-child(4) { animation: slideIn 0.5s ease-out forwards 0.25s; }
+.navbar-menu.active li:nth-child(5) { animation: slideIn 0.5s ease-out forwards 0.3s; }
+.navbar-menu.active li:nth-child(6) { animation: slideIn 0.5s ease-out forwards 0.35s; }
+.navbar-menu.active li:nth-child(7) { animation: slideIn 0.5s ease-out forwards 0.4s; }
+.navbar-menu.active li:nth-child(8) { animation: slideIn 0.5s ease-out forwards 0.45s; }
+.navbar-menu.active li:nth-child(9) { animation: slideIn 0.5s ease-out forwards 0.5s; }
 
 @keyframes slideIn {
   from {

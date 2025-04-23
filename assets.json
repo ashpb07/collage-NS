@@ -1617,11 +1617,11 @@
   "shops": [
     {
       "id": 1,
-      "name": "Oven fresh ",
-      "distance": "near the left side entrance of the gate ",
-      "category": "Food stall",
-      "photo": "/images/cafe-coffee-day.jpg",
-      "openingHours": "8:00 AM - 10:00 PM",
+      "name": "Ribbons and ballons",
+      "distance": "near the Mechanical workshop behind C V raman Block ",
+      "category": "Cake shop",
+      "photo": "/images/WhatsApp Image 2025-04-23 at 08.37.54.jpeg",
+      "openingHours": "8:00 AM - 05:30 PM",
       "contactInfo": "+1234567890"
     },
     {
@@ -1652,236 +1652,476 @@
       "contactInfo": "+5566778899"
     }
   ],
-
-  "classrooms": [
-    {
-      "id": 1,
-      "block": "C V RAMAN",
-      "floor": "0",
-      "roomNo": "LC01",
-      "status": "1st year computer science",
-      "section": "A ",
-      "equipment": ["Projector", "Whiteboard"]
-    },
-    {
-      "id": 2,
-      "block": "C V RAMAN",
-      "floor": "0",
-      "roomNo": "LC02",
-      "status": "1st year computer science",
-      "section": "B",
-      "equipment": ["Projector", "Whiteboard"]
-    },
-    {
-      "id": 3,
-      "block": "C V RAMAN",
-      "floor": "0",
-      "roomNo": "LC04",
-      "status": "1st year computer science",
-      "section": "C ",
-      "equipment": ["Projector", "Whiteboard"]
-    },
-    {
-      "id": 4,
-      "block": "C V RAMAN",
-      "floor": "0",
-      "roomNo": "ISL09",
-      "status": "Skill Development/IMAC Lab",
-      "section": "Dept of ISE",
-      "equipment": ["iMacs", "Projector"]
-    },
-    {
-      "id": 5,
-      "block": "C V RAMAN",
-      "floor": "1",
-      "roomNo": "LC11",
-      "status": "1st year computer science",
-      "section": "D ",
-      "equipment": ["Projector", "Whiteboard"]
-    },
-    {
-      "id": 6,
-      "block": "C V RAMAN",
-      "floor": "1",
-      "roomNo": "LC12",
-      "status": "1st year computer science",
-      "section": "E ",
-      "equipment": ["Projector", "Whiteboard"]
-    },
-    {
-      "id": 7,
-      "block": "C V RAMAN",
-      "floor": "1",
-      "roomNo": "LC13",
-      "status": "Active Learning Lab on Robotics",
-      "section": "Robotics",
-      "equipment": ["Robotics Kits", "Computers"]
-    },
-    {
-      "id": 8,
-      "block": "C V RAMAN",
-      "floor": "1",
-      "roomNo": "LC14",
-      "status": "1st year AIML",
-      "section": "K ",
-      "equipment": ["Projector", "Whiteboard"]
-    },
-    {
-      "id": 9,
-      "block": "C V RAMAN",
-      "floor": "2",
-      "roomNo": "LC21",
-      "status": "1st year ISE",
-      "section": "F ",
-      "equipment": ["Projector", "Whiteboard"]
-    },
-    {
-      "id": 10,
-      "block": "C V RAMAN",
-      "floor": "2",
-      "roomNo": "LC22",
-      "status": "1st year ISE",
-      "section": "G ",
-      "equipment": ["Projector", "Whiteboard"]
-    },
-    {
-      "id": 11,
-      "block": "C V RAMAN",
-      "floor": "2",
-      "roomNo": "LC24",
-      "status": "1st year ISE",
-      "section": "I ",
-      "equipment": ["Projector", "Whiteboard"]
-    },
-    {
-      "id": 12,
-      "block": "C V RAMAN",
-      "floor": "3",
-      "roomNo": "LC31",
-      "status": "CCE Lab",
-      "section": "CCE",
-      "equipment": ["Computers", "Networking Tools"]
-    },
-    {
-      "id": 13,
-      "block": "C V RAMAN",
-      "floor": "3",
-      "roomNo": "LC37",
-      "status": "Cybersecurity Lab",
-      "section": "Cybersecurity",
-      "equipment": ["Servers", "Security Tools"]
-    },
-    {
-      "id": 14,
-      "block": "C V RAMAN",
-      "floor": "4",
-      "roomNo": "LC41",
-      "status": "VLSI Lab",
-      "section": "U ",
-      "equipment": ["VLSI Kits", "Oscilloscopes"]
-    }
-  ],
-
-  "clubs": [
-    {
-      "id": 1,
-      "photo": "/images/image.png",
-      "name": "Robotics Club",
-      "category": "Technical",
-      "president": "Dr. XYZ",
-      "description":" Robotics Club is a technical club that focuses on robotics and automation.",
-      "location": "C V RAMAN",
-      "url": "https://example.com/robotics-club"
-    },
-    {
-      "id": 2,
-      "name": "Coding Club",
-      "category": "Technical",
-      "president": "Mr. ABC",
-      "description":" Coding Club is a technical club that focuses on coding and web development.",
-      "location": "C V RAMAN",
-      "url": "https://example.com/coding-club"
-    },
-    {
-      "id": 3,
-      "name": "Art Club",
-      "category": "Cultural",
-      "president": "Ms. PQR",
-      "description":" Art Club is a cultural club that focuses on art and design.",
-      "location": "Auditorium",
-      "url": "https://example.com/art-club"
-    },
-    {
-      "id": 4,
-      "name": "Music Club",
-      "category": "Cultural",
-      "president": "Mr. DEF",
-      "description":" Music Club is a cultural club that focuses on music and singing.",
-      "location": "Auditorium",
-      "url": "https://example.com/music-club"
-    },
-    {
-      "id": 5,
-      "name": "Sports Club",
-      "category": "Sports",
-      "president": "Mr. GHI",
-      "description":" Sports Club is a sports club that focuses on sports and fitness.",
-      "location": "Sports Complex",
-      "url": "https://example.com/sports-club"
-    },
-    {
-      "id": 6,
-      "name": "Cultural Club",
-      "category": "Cultural",
-      "president": "Ms. JKL",
-      "description":" Cultural Club is a cultural club that focuses on cultural events and activities.",
-      "location": "Auditorium",
-      "url": "https://example.com/cultural-club"
-    },
-    {
-      "id": 7,
-      "name": "Environmental Club",
-      "category": "Social",
-      "president": "Mr. MNO",
-      "description":" Environmental Club is a social club that focuses on environmental issues and sustainability.",
-      "location": "Eco-Friendly Zone",
-      "url": "https://example.com/environmental-club"
-    },
-    {
-      "id": 8,
-      "name": "Photography Club",
-      "category": "Hobby",
-      "president": "Ms. PQR",
-      "description":" Photography Club is a hobby club that focuses on photography and creative expression.",
-      "location": "Photography Studio",
-      "url": "https://example.com/photography-club"
-    }
-  ],
-  "labs": [
-    {
-      "id": 1,
-      "name": "Physics Lab",
-      "equipment": ["Oscilloscope", "Function Generator", "Power Supply"],
-      "occupiedBy": "Class A"
-    },
-    {
-      "id": 2,
-      "name": "Chemistry Lab",
-      "equipment": ["Bunsen Burner", "Test Tubes", "Beakers"],
-      "occupiedBy": "Available"
-    },
-    {
-      "id": 3,
-      "name": "Biology Lab",
-      "equipment": ["Microscope", "Petri Dishes", "Slides"],
-      "occupiedBy": "Class B"
-    },
-    {
-      "id": 4,
-      "name": "Computer Lab",
-      "equipment": ["Computers", "Projector", "Whiteboard"],
-      "occupiedBy": "Available"
-    }
-  ]
-
+  
+    "classrooms": [
+      {
+        "id": 1,
+        "block": "C V RAMAN",
+        "floor": "0",
+        "roomNo": "LC01",
+        "status": "1st year computer science",
+        "section": "A",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 2,
+        "block": "C V RAMAN",
+        "floor": "0",
+        "roomNo": "LC02",
+        "status": "1st year computer science",
+        "section": "B",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 3,
+        "block": "C V RAMAN",
+        "floor": "0",
+        "roomNo": "LC04",
+        "status": "1st year computer science",
+        "section": "C",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 4,
+        "block": "C V RAMAN",
+        "floor": "0",
+        "roomNo": "ISL09",
+        "status": "Skill Development/IMAC Lab",
+        "section": "Dept of ISE",
+        "equipment": ["iMacs", "Projector"]
+      },
+      {
+        "id": 5,
+        "block": "C V RAMAN",
+        "floor": "1",
+        "roomNo": "LC11",
+        "status": "1st year computer science",
+        "section": "D",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 6,
+        "block": "C V RAMAN",
+        "floor": "1",
+        "roomNo": "LC12",
+        "status": "1st year computer science",
+        "section": "E",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 7,
+        "block": "C V RAMAN",
+        "floor": "1",
+        "roomNo": "LC13",
+        "status": "Active Learning Lab on Robotics",
+        "section": "Robotics",
+        "equipment": ["Robotics Kits", "Computers"]
+      },
+      {
+        "id": 8,
+        "block": "C V RAMAN",
+        "floor": "1",
+        "roomNo": "LC14",
+        "status": "1st year AIML",
+        "section": "K",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 9,
+        "block": "C V RAMAN",
+        "floor": "2",
+        "roomNo": "LC21",
+        "status": "1st year ISE",
+        "section": "F",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 10,
+        "block": "C V RAMAN",
+        "floor": "2",
+        "roomNo": "LC22",
+        "status": "1st year ISE",
+        "section": "G",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 11,
+        "block": "C V RAMAN",
+        "floor": "2",
+        "roomNo": "LC24",
+        "status": "1st year ISE",
+        "section": "I",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 12,
+        "block": "C V RAMAN",
+        "floor": "2",
+        "roomNo": "LC25",
+        "status": "1ST YEAR ECE",
+        "section": "Q",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 13,
+        "block": "C V RAMAN",
+        "floor": "2",
+        "roomNo": "LC26",
+        "status": "1ST YEAR EEE",
+        "section": "V",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 14,
+        "block": "C V RAMAN",
+        "floor": "2",
+        "roomNo": "LC27",
+        "status": "1ST YEAR ECE",
+        "section": "R",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 15,
+        "block": "C V RAMAN",
+        "floor": "3",
+        "roomNo": "LC31",
+        "status": "1st YEAR CCE",
+        "section": "J",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 16,
+        "block": "C V RAMAN",
+        "floor": "3",
+        "roomNo": "LC37",
+        "status": "1st YEAR CYBERSECURITY",
+        "section": "M",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 17,
+        "block": "C V RAMAN",
+        "floor": "3",
+        "roomNo": "LC36",
+        "status": "1ST YEAR MEC",
+        "section": "Y",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 18,
+        "block": "C V RAMAN",
+        "floor": "4",
+        "roomNo": "LC41",
+        "status": "1ST YEAR VLSI",
+        "section": "U",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 19,
+        "block": "C V RAMAN",
+        "floor": "4",
+        "roomNo": "LC42",
+        "status": "1ST YEAR ACT",
+        "section": "T",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 20,
+        "block": "C V RAMAN",
+        "floor": "4",
+        "roomNo": "LC43",
+        "status": "1ST YEAR ROBOTICS",
+        "section": "N",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 21,
+        "block": "C V RAMAN",
+        "floor": "4",
+        "roomNo": "LC44",
+        "status": "1ST YEAR AIDS",
+        "section": "L",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 22,
+        "block": "C V RAMAN",
+        "floor": "4",
+        "roomNo": "LC45",
+        "status": "1ST YEAR MEC",
+        "section": "O",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 23,
+        "block": "C V RAMAN",
+        "floor": "4",
+        "roomNo": "LC46",
+        "status": "1ST YEAR ELECTRICAL",
+        "section": "W",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 24,
+        "block": "C V RAMAN",
+        "floor": "4",
+        "roomNo": "LC47",
+        "status": "1ST YEAR ECE",
+        "section": "S",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 25,
+        "block": "APJ",
+        "floor": "2",
+        "roomNo": "LH211",
+        "status": "ECE",
+        "section": "",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 26,
+        "block": "APJ",
+        "floor": "2",
+        "roomNo": "LH212",
+        "status": "BIOTECH",
+        "section": "X",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 27,
+        "block": "APJ",
+        "floor": "2",
+        "roomNo": "LH210",
+        "status": "BIOTECH",
+        "section": "",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 28,
+        "block": "APJ",
+        "floor": "3",
+        "roomNo": "LH306",
+        "status": "ECE",
+        "section": "C",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 29,
+        "block": "APJ",
+        "floor": "3",
+        "roomNo": "LH308",
+        "status": "ECE",
+        "section": "B",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 30,
+        "block": "APJ",
+        "floor": "5",
+        "roomNo": "LH501",
+        "status": "PG LECTURE HALL",
+        "section": "",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 31,
+        "block": "APJ",
+        "floor": "5",
+        "roomNo": "LH502",
+        "status": "ISE",
+        "section": "C",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 32,
+        "block": "APJ",
+        "floor": "5",
+        "roomNo": "LH503",
+        "status": "ISE",
+        "section": "B",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 33,
+        "block": "APJ",
+        "floor": "",
+        "roomNo": "LH504",
+        "status": "ISE",
+        "section": "A",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 34,
+        "block": "APJ",
+        "floor": "",
+        "roomNo": "LH505",
+        "status": "ISE",
+        "section": "D",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 35,
+        "block": "APJ",
+        "floor": "",
+        "roomNo": "LH506",
+        "status": "",
+        "section": "",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 36,
+        "block": "SMV",
+        "floor": "1",
+        "roomNo": "NC11",
+        "status": "ISE",
+        "section": "A",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 37,
+        "block": "SMV",
+        "floor": "1",
+        "roomNo": "NC12",
+        "status": "MCA",
+        "section": "",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 38,
+        "block": "SMV",
+        "floor": "1",
+        "roomNo": "NC13",
+        "status": "ISE",
+        "section": "B",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 39,
+        "block": "SMV",
+        "floor": "1",
+        "roomNo": "NC14",
+        "status": "VLSI",
+        "section": "",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 40,
+        "block": "SMV",
+        "floor": "1",
+        "roomNo": "NC15",
+        "status": "VLSI",
+        "section": "",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 41,
+        "block": "SMV",
+        "floor": "2",
+        "roomNo": "NC21",
+        "status": "ECE",
+        "section": "",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 42,
+        "block": "SMV",
+        "floor": "2",
+        "roomNo": "NC22",
+        "status": "EEE",
+        "section": "",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 43,
+        "block": "SMV",
+        "floor": "2",
+        "roomNo": "NC23",
+        "status": "ECE",
+        "section": "",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 44,
+        "block": "SMV",
+        "floor": "2",
+        "roomNo": "NC24",
+        "status": "ECE",
+        "section": "",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 45,
+        "block": "SMV",
+        "floor": "2",
+        "roomNo": "NC25",
+        "status": "",
+        "section": "",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 46,
+        "block": "SMV",
+        "floor": "2",
+        "roomNo": "NC26",
+        "status": "",
+        "section": "",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 47,
+        "block": "SMV",
+        "floor": "3",
+        "roomNo": "NC34",
+        "status": "MCA",
+        "section": "",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 48,
+        "block": "SMV",
+        "floor": "3",
+        "roomNo": "NC35",
+        "status": "",
+        "section": "",
+        "equipment": []
+      },
+      {
+        "id": 49,
+        "block": "SMV",
+        "floor": "3",
+        "roomNo": "NC36",
+        "status": "",
+        "section": "",
+        "equipment": []
+      },
+      {
+        "id": 50,
+        "block": "SMV",
+        "floor": "6",
+        "roomNo": "NC61",
+        "status": "",
+        "section": "",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 51,
+        "block": "SMV",
+        "floor": "6",
+        "roomNo": "NC62",
+        "status": "",
+        "section": "",
+        "equipment": ["Projector", "Whiteboard"]
+      },
+      {
+        "id": 52,
+        "block": "SMV",
+        "floor": "6",
+        "roomNo": "NC63",
+        "status": "AIDS",
+        "section": "",
+        "equipment": ["Projector", "Whiteboard"]
+      }
+    ]
+  
 }

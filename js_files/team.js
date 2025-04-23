@@ -14,9 +14,8 @@ document.addEventListener('DOMContentLoaded', () => {
           <h2>${member.name}</h2>
           <p>${member.role}</p>
           <div class="social-links">
-            <a href="${member.social.linkedin}" target="_blank"><i class="fab fa-linkedin"></i></a>
             <a href="${member.social.whatsapp}" target="_blank"><i class="fab fa-whatsapp"></i></a>
-            <a href="${member.social.instagram}" target="_blank"><i class="fab fa-instagram"></i></a>
+            <p>${member.work}</p>
           </div>
         `;
 

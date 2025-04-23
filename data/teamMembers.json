@@ -3,26 +3,29 @@
     "name": "Akanshaa",
     "role": "NNM24CB001",
     "image": "/images/NNM24CB001.jpeg",
+    "work": "Information Gathering",
     "social": {
       "linkedin": "https://www.linkedin.com/in/rahulkumarwebdev/",
-      "whatsapp": "https://wa.me/917338063175",
+      "whatsapp": "https://wa.me/917259905098",
       "instagram": "https://github.com/rahulkumarweb"
     }
   },
   {
     "name": "Abhay",
     "role": "NNM24CB002",
+    "work": "Information Gathering",
     "image": "/images/NNM24CB002.jpeg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/rahulkumarwebdev/",
-      "whatsapp": "https://wa.me/917338063175",
-      "instagram": "https://github.com/rahulkumarweb"
+      "whatsapp": "https://wa.me/917019561357"
     }
   },
   {
     "name": "Adarsh H N",
     "role": "NNM24CB003",
     "image": "/images/DSC_0073.JPG",
+    "work": "web development",
+
     "social": {
       "linkedin": "https://www.linkedin.com/in/rahulkumarwebdev/",
       "whatsapp": "https://wa.me/917338063175",
@@ -33,9 +36,11 @@
     "name": "Akanshaa nayak",
     "role": "NNM24CB004",
     "image": "/images/NNM24CB004.jpeg",
+    "work": "Information Gathering",
+
     "social": {
       "linkedin": "https://www.linkedin.com/in/rahulkumarwebdev/",
-      "whatsapp": "https://wa.me/917338063175",
+      "whatsapp": "https://wa.me/918310820492",
       "instagram": "https://github.com/rahulkumarweb"
     }
   },
@@ -43,9 +48,11 @@
     "name": "Amruthanshu",
     "role": "NNM24CB005",
     "image": "/images/NNM24CB005.jpeg",
+    "work": "Information Gathering",
+
     "social": {
       "linkedin": "https://www.linkedin.com/in/rahulkumarwebdev/",
-      "whatsapp": "https://wa.me/917338063175",
+      "whatsapp": "https://wa.me/918105334996",
       "instagram": "https://github.com/rahulkumarweb"
     }
   },
@@ -53,19 +60,21 @@
     "name": "Arjun",
     "role": "NNM24CB006",
     "image": "/images/NNM24CB006.jpeg",
+    "work": "Information Gathering",
     "social": {
       "linkedin": "https://www.linkedin.com/in/rahulkumarwebdev/",
-      "whatsapp": "https://wa.me/917338063175",
+      "whatsapp": "https://wa.me/919019801221",
       "instagram": "https://github.com/rahulkumarweb"
     }
   },
   {
     "name": "anish",
     "role": "NNM24CB007",
+    "work": "web development",
     "image": "/images/NNM24CB007.jpeg",
     "social": {
       "linkedin": "https://www.linkedin.com/in/rahulkumarwebdev/",
-      "whatsapp": "https://wa.me/917338063175",
+      "whatsapp": "https://wa.me/917019275348",
       "instagram": "https://github.com/rahulkumarweb"
     }
   }
