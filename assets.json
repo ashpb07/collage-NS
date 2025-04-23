@@ -231,8 +231,8 @@
       "email": " sampath@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/sampath.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 27,
@@ -240,8 +240,8 @@
       "email": " pwnhegde@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/pawan.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 28,
@@ -249,8 +249,8 @@
       "email": "  gk.shwetha@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/swetha.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "5"
     },
     {
       "id": 29,
@@ -267,8 +267,8 @@
       "email": "  Puneeth.rp@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/puneeth.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "4"
     },
     {
       "id": 31,
@@ -276,8 +276,8 @@
       "email": "  manasagr@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/manasa.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 32,
@@ -285,8 +285,8 @@
       "email": " sunilaithal@nitte.edu",
       "department": "Computer Science",
       "photo": "/images/sunil.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
     },
     {
       "id": 33,
@@ -294,8 +294,8 @@
       "email": "  ankitha@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/ankitha.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
     },
     {
       "id": 34,
@@ -303,8 +303,8 @@
       "email": " ashwin.shenoy@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/ashwin.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "A P J",
+      "phoneNumber": "3"
     },
     {
       "id": 35,
@@ -313,7 +313,7 @@
       "department": "Computer Science",
       "photo": "/images/shilpa.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "4"
     },
     {
       "id": 36,
@@ -321,8 +321,8 @@
       "email": "sowmya.p@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/sowmya.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 37,
@@ -330,8 +330,8 @@
       "email": "akhilraj.gadagkar@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/akhilraj.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 38,
@@ -340,7 +340,7 @@
       "department": "Computer Science",
       "photo": "/images/jayapadmini.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "--"
     },
     {
       "id": 39,
@@ -349,7 +349,7 @@
       "department": "Computer Science",
       "photo": "/images/prithviraj.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "4"
     },
     {
       "id": 40,
@@ -357,8 +357,8 @@
       "email": " sowmya.s@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/sowmya s.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
     },
     {
       "id": 41,
@@ -366,8 +366,8 @@
       "email": "rajashree@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/rajashree.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
     },
     {
       "id": 42,
@@ -375,8 +375,8 @@
       "email": " joylinpriya@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/joylin.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "4"
     },
     {
       "id": 43,
@@ -384,8 +384,8 @@
       "email": " anusha@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/anusha.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "A P J",
+      "phoneNumber": "5"
     },
     {
       "id": 44,
@@ -393,8 +393,8 @@
       "email": " aishwarya.shetty@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/aishwarya.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 45,
@@ -402,8 +402,8 @@
       "email": "soumya.ashwath@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/soumya.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "A P J",
+      "phoneNumber": "5"
     },
     {
       "id": 46,
@@ -411,8 +411,8 @@
       "email": " vaishali.bangera@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/vaishali.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "A P J",
+      "phoneNumber": "5"
     },
     {
       "id": 47,
@@ -420,8 +420,8 @@
       "email": " anupama.hanni@nitte.edu.in",
       "department": "Computer Science",
       "photo": "/images/anupama.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "A P J",
+      "phoneNumber": "5"
     },
     {
       "id": 48,
@@ -429,8 +429,8 @@
       "email": "  karunapandit@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/karuna.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "A P J",
+      "phoneNumber": "3"
     },
     {
       "id": 49,
@@ -438,8 +438,8 @@
       "email": " balasubramani.r@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/balasubramani.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "A P J",
+      "phoneNumber": "3"
     },
     {
       "id": 50,
@@ -447,8 +447,8 @@
       "email": " Vasudeva.acharya@nitte-edu.in",
       "department": "Information Science",
       "photo": "/images/vasudeva.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "A P J",
+      "phoneNumber": "3"
     },
     {
       "id": 51,
@@ -456,8 +456,8 @@
       "email": " ravib671@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/ravi.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "A P J",
+      "phoneNumber": "5"
     },
     {
       "id": 52,
@@ -465,8 +465,8 @@
       "email": "  ushad@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/usha.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "4"
     },
     {
       "id": 53,
@@ -474,8 +474,8 @@
       "email": " dr.manjulagururajh@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/manjula.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "4"
     },
     {
       "id": 54,
@@ -483,8 +483,8 @@
       "email": "drsumathi@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/sumathi.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "4"
     },
     {
       "id": 55,
@@ -492,8 +492,8 @@
       "email": "naganna.chetty@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/naganna.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 56,
@@ -501,8 +501,8 @@
       "email": " jason1987martis@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/jason.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "A P J",
+      "phoneNumber": "5"
     },
     {
       "id": 57,
@@ -510,8 +510,8 @@
       "email": " vandana.bs@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/vandana.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 58,
@@ -519,8 +519,8 @@
       "email": " sunilkamath@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/bola.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
     },
     {
       "id": 59,
@@ -528,8 +528,8 @@
       "email": " devidasbhat@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/devidas.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "A P J",
+      "phoneNumber": "3"
     },
     {
       "id": 60,
@@ -537,8 +537,8 @@
       "email": " paivasudeva@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/vasudeva pai.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "A P J",
+      "phoneNumber": "3"
     },
     {
       "id": 61,
@@ -546,8 +546,8 @@
       "email": " deepashetty17@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/deepa.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "A P J",
+      "phoneNumber": "5"
     },
     {
       "id": 62,
@@ -555,8 +555,8 @@
       "email": " rashmin@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/rashmi.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "A P J",
+      "phoneNumber": "5"
     },
     {
       "id": 63,
@@ -564,8 +564,8 @@
       "email": " abhishekrao@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/abhishek.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "A P J",
+      "phoneNumber": "3"
     },
     {
       "id": 64,
@@ -573,8 +573,8 @@
       "email": " vaikunth.pai@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/vaikunth.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 65,
@@ -582,8 +582,8 @@
       "email": "  krishnaraj.rao@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/krishnaraj.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "2"
     },
     {
       "id": 66,
@@ -591,8 +591,8 @@
       "email": " santhosh.s@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/santhosh.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
     },
     {
       "id": 67,
@@ -600,8 +600,8 @@
       "email": " ramesh.g@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/ramesh.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 68,
@@ -609,8 +609,8 @@
       "email": " preethi.salian@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/preethi.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 69,
@@ -618,8 +618,8 @@
       "email": " srikanthbhatk@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/srikanth.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 70,
@@ -627,8 +627,8 @@
       "email": " alaka_ananth@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/alaka.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 71,
@@ -636,8 +636,8 @@
       "email": " prathyakshini@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/prathyakshini.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "A P J",
+      "phoneNumber": "5"
     },
     {
       "id": 72,
@@ -645,8 +645,8 @@
       "email": " pratheeksha.hegde@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/pratheeksha.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "A P J",
+      "phoneNumber": "5"
     },
     {
       "id": 73,
@@ -654,8 +654,8 @@
       "email": "  Sharath.sk@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/sharath.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 74,
@@ -663,8 +663,8 @@
       "email": " prashanth.kumar@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/prashanth.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 75,
@@ -672,8 +672,8 @@
       "email": " anusha24@nitte.edu.in ",
       "department": "Information Science",
       "photo": "/images/anusha (2).jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "A P J",
+      "phoneNumber": "5"
     },
     {
       "id": 76,
@@ -681,8 +681,8 @@
       "email": " tanzilanargis@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/tanzila.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
     },
     {
       "id": 77,
@@ -690,8 +690,8 @@
       "email": "ashwitha.thomas@nitte.edu.in",
       "department": "Information Science",
       "photo": "/images/ashwitha.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 78,
@@ -699,8 +699,8 @@
       "email": " muralikrishna.nidugala@hpe.com",
       "department": "Information Science",
       "photo": "/images/muralikrishna.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 79,
@@ -709,7 +709,7 @@
       "department": "VLSI",
       "photo": "/images/manju.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "4"
     },
     {
       "id": 80,
@@ -718,7 +718,7 @@
       "department": "VLSI",
       "photo": "/images/sushma.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "4"
     },
     {
       "id": 81,
@@ -727,7 +727,7 @@
       "department": "VLSI",
       "photo": "/images/nisanth.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "4"
     },
     {
       "id": 82,
@@ -735,8 +735,8 @@
       "email": "vincentldsouza@nitte.edu.in",
       "department": "Robotics and artificial intelligence",
       "photo": "/images/vincent.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 83,
@@ -744,8 +744,8 @@
       "email": " tanya.mendez@nitte.edu.in",
       "department": "Robotics and artificial intelligence",
       "photo": "/images/tanya.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 84,
@@ -753,8 +753,8 @@
       "email": "prasadprabhu@nitte.edu.in",
       "department": "Robotics and artificial intelligence",
       "photo": "/images/prasad.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 85,
@@ -762,8 +762,8 @@
       "email": " ranjith,bhat@nitte.edu.inn",
       "department": "Robotics and artificial intelligence",
       "photo": "/images/ranjith.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "RAJARAMAN",
+      "phoneNumber": "1"
     },
     {
       "id": 86,
@@ -771,8 +771,8 @@
       "email": "adarsh.rai@nitte.edu.in",
       "department": "Robotics and artificial intelligence",
       "photo": "/images/adarsh.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "RAJARAMAN",
+      "phoneNumber": "1"
     },
     {
       "id": 87,
@@ -780,8 +780,8 @@
       "email": " iprashmi@nitte.edu.in",
       "department": "Robotics and artificial intelligence",
       "photo": "/images/rashmi_ri.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "5"
     },
     {
       "id": 88,
@@ -789,8 +789,8 @@
       "email": " veereshark@nitte.edu.in",
       "department": "Robotics and artificial intelligence",
       "photo": "/images/veeresha.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "RAJARAMAN",
+      "phoneNumber": "1"
     },
     {
       "id": 89,
@@ -798,7 +798,7 @@
       "email": "drmuralidhara@nitte.edu.in",
       "department": "Robotics and artificial intelligence",
       "photo": "/images/muralidhara.jpg",
-      "officeLocation": "RAMANUJAN",
+      "officeLocation": "RAJARAMAN",
       "phoneNumber": "G"
     },
     {
@@ -807,8 +807,8 @@
       "email": " rajashree.n@nitte.edu.in",
       "department": "Robotics and artificial intelligence",
       "photo": "/images/rajashree_ri.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "RAJARAMAN",
+      "phoneNumber": "1"
     },
     {
       "id": 91,
@@ -816,8 +816,8 @@
       "email": "ramakrishnab@nitte.edu.in",
       "department": "Humanities",
       "photo": "/images/ramakrishna.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "2"
     },
     {
       "id": 92,
@@ -826,7 +826,7 @@
       "department": "Physics",
       "photo": "/images/manjunatha.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "1"
     },
     {
       "id": 93,
@@ -834,8 +834,8 @@
       "email": " vishwanath_nmamit@nitte.edu.in",
       "department": "Humanities",
       "photo": "/images/vishwa.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN and A P J",
+      "phoneNumber": "5 and G"
     },
     {
       "id": 94,
@@ -843,8 +843,8 @@
       "email": " joymartis@nitte.edu.in",
       "department": "Humanities",
       "photo": "/images/joy.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
     },
     {
       "id": 95,
@@ -852,8 +852,8 @@
       "email": "pramod.kumarps@nitte.edu.in",
       "department": "Humanities",
       "photo": "/images/pramod.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "5"
     },
     {
       "id": 96,
@@ -861,8 +861,8 @@
       "email": "  mendoncashyla@nitte.edu.in",
       "department": "Humanities",
       "photo": "/images/shyla.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "5"
     },
     {
       "id": 97,
@@ -870,8 +870,8 @@
       "email": " sonialobo@nitte.edu.in",
       "department": "Humanities",
       "photo": "/images/sonia.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "5"
     },
     {
       "id": 98,
@@ -879,8 +879,8 @@
       "email": " akshathaj.shetty@nitte.edu.in",
       "department": "Humanities",
       "photo": "/images/akshatha.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "5"
     },
     {
       "id": 99,
@@ -888,8 +888,8 @@
       "email": " prabhunagesh@nitte.edu.in",
       "department": "Electrical",
       "photo": "/images/nagesh.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 100,
@@ -897,8 +897,8 @@
       "email": "Satyendra@nitte.edu.in",
       "department": "Electrical",
       "photo": "/images/satya.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 101,
@@ -906,8 +906,8 @@
       "email": " rashmi.adyapady@nitte.edu.in",
       "department": "AIML",
       "photo": "/images/rashmi_adya.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "5"
     },
     {
       "id": 102,
@@ -999,8 +999,8 @@
       "email": "srinivas.nekkar16@nitte.edu. in",
       "department": "AIML",
       "photo": "/images/srinivas.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
     },
     {
       "id": 113,
@@ -1008,17 +1008,17 @@
       "email": " shwethabharath24@nitte.edu.in",
       "department": "AIML",
       "photo": "/images/shwetha.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 114,
       "name": "Ms. SOUMYASHREE R BANGERA",
       "email": " Soumyashree.bangera@nitte.edu.in",
-      "department": "AIML",
+      "department": "Humanities",
       "photo": "/images/soumyashree.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "5"
     },
     {
       "id": 115,
@@ -1026,8 +1026,8 @@
       "email": " np.pai@nitte.edu.in",
       "department": "Maths",
       "photo": "/images/nitya.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 116,
@@ -1035,8 +1035,8 @@
       "email": " ashwini.dy@nitte.edu.in",
       "department": "Humanities",
       "photo": "/images/ashwini_hu.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "RAJARAMAN",
+      "phoneNumber": "5"
     },
     {
       "id": 117,
@@ -1152,8 +1152,8 @@
       "email": "pawan.kumar@nitte.edu.in",
       "department": "Physics",
       "photo": "/images/pawan_phy.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 130,
@@ -1188,8 +1188,8 @@
       "email": "santosh.tiwari@nitte.edu.in",
       "department": "Chemistry",
       "photo": "/images/santhosh_che.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 134,
@@ -1278,8 +1278,8 @@
       "email": " nmarakala@nitte.edu.in",
       "department": "Mechanical",
       "photo": "/images/narashimha.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 144,
@@ -1350,8 +1350,8 @@
       "email": " vijeeshv@nitte.edu.in",
       "department": "Mechanical",
       "photo": "/images/vijeesh.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 152,
@@ -1359,8 +1359,8 @@
       "email": " nithinmech33@nitte.edu.in",
       "department": "Mechanical",
       "photo": "/images/nithin.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 153,
@@ -1531,8 +1531,8 @@
       "email": "bhaskarap@nitte.edu.in",
       "department": "Mechanical",
       "photo": "/images/bhaskara.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 172,
@@ -1541,7 +1541,7 @@
       "department": "Mechanical",
       "photo": "/images/mohan.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "2"
     },
     {
       "id": 173,
@@ -1594,8 +1594,8 @@
       "email": " rajathnrao@gmail.com",
       "department": "Mechanical",
       "photo": "/images/rajnath.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 179,
@@ -1639,8 +1639,8 @@
       "email": "--",
       "department": "Civil",
       "photo": "/images/bhand.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 184,
@@ -1648,8 +1648,8 @@
       "email": " be.bhojaraj@nitte.edu.in",
       "department": "Civil",
       "photo": "/images/bhoj.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 185,
@@ -1657,8 +1657,8 @@
       "email": "  ranjith.anand@nitte.edu.in",
       "department": "Civil",
       "photo": "/images/ran.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 186,
@@ -1675,8 +1675,8 @@
       "email": " shrirammarathe@nitte.edu.in",
       "department": "Civil",
       "photo": "/images/shriram.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 188,
@@ -1693,8 +1693,8 @@
       "email": " mithunbm@nitte.edu.in",
       "department": "Civil",
       "photo": "/images/mith.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 190,
@@ -1702,8 +1702,8 @@
       "email": "shettyshanmukha@nitte.edu.in",
       "department": "Civil",
       "photo": "/images/shan.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 191,
@@ -1756,8 +1756,8 @@
       "email": "--",
       "department": "Civil",
       "photo": "/images/arjun.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 197,
@@ -1774,8 +1774,8 @@
       "email": " prashanthanitte@nitte.edu.in",
       "department": "Civil",
       "photo": "/images/pras.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "--",
+      "phoneNumber": "--"
     },
     {
       "id": 199,
