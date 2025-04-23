@@ -1022,10 +1022,10 @@
     },
     {
       "id": 115,
-      "name": "Ms. SANCHITA C M",
-      "email": " sanchita.cm@nitte.edu.in",
-      "department": "AI-DS",
-      "photo": "/images/sanchita.jpg",
+      "name": "Dr. NITHYANANDA PAI",
+      "email": " np.pai@nitte.edu.in",
+      "department": "Maths",
+      "photo": "/images/nitya.jpg",
       "officeLocation": "RAMANUJAN",
       "phoneNumber": "G"
     },
@@ -1099,7 +1099,7 @@
       "department": "Physics",
       "photo": "/images/shoba.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "1"
     },
     {
       "id": 124,
@@ -1116,8 +1116,8 @@
       "email": " nagarajbs@nitte.edu.in",
       "department": "Physics",
       "photo": "/images/nagraja.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
     },
     {
       "id": 126,
@@ -1162,7 +1162,7 @@
       "department": "Chemistry",
       "photo": "/images/jana.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "1"
     },
     {
       "id": 131,
@@ -1171,7 +1171,7 @@
       "department": "Chemistry",
       "photo": "/images/ramesh_che.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "1"
     },
     {
       "id": 132,
@@ -1198,7 +1198,7 @@
       "department": "Chemistry",
       "photo": "/images/aarti.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "1"
     },
     {
       "id": 135,
@@ -1206,8 +1206,8 @@
       "email": " subrahmanya@nitte.edu.in",
       "department": "Chemistry",
       "photo": "/images/subra.jpg",
-      "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
     },
     {
       "id": 136,
@@ -1216,7 +1216,7 @@
       "department": "Chemistry",
       "photo": "/images/sarvajith.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "1"
     },
     {
       "id": 137,
@@ -1252,7 +1252,7 @@
       "department": "Mechanical",
       "photo": "/images/subrah.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "3"
     },
     {
       "id": 141,
@@ -1261,7 +1261,7 @@
       "department": "Mechanical",
       "photo": "/images/sudesh_me.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "1"
     },
     {
       "id": 142,
@@ -1270,7 +1270,7 @@
       "department": "Mechanical",
       "photo": "/images/srinivasa.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "2"
     },
     {
       "id": 143,
@@ -1288,7 +1288,7 @@
       "department": "Mechanical",
       "photo": "/images/malli.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "2"
     },
     {
       "id": 145,
@@ -1315,7 +1315,7 @@
       "department": "Mechanical",
       "photo": "/images/anantha.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "2"
     },
     {
       "id": 148,
@@ -1324,7 +1324,7 @@
       "department": "Mechanical",
       "photo": "/images/udaya.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "2"
     },
     {
       "id": 149,
@@ -1333,7 +1333,7 @@
       "department": "Mechanical",
       "photo": "/images/kumar.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "2"
     },
     {
       "id": 150,
@@ -1342,7 +1342,7 @@
       "department": "Mechanical",
       "photo": "/images/ajit.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "2"
     },
     {
       "id": 151,
@@ -1369,7 +1369,7 @@
       "department": "Mechanical",
       "photo": "/images/grynal.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "2"
     },
     {
       "id": 154,
@@ -1378,7 +1378,7 @@
       "department": "Mechanical",
       "photo": "/images/suresh.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "2"
     },
     {
       "id": 155,
@@ -1396,7 +1396,7 @@
       "department": "Mechanical",
       "photo": "/images/ravish.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "2"
     },
     {
       "id": 157,
@@ -1405,7 +1405,7 @@
       "department": "Mechanical",
       "photo": "/images/ravindra.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "3"
     },
     {
       "id": 158,
@@ -1414,7 +1414,7 @@
       "department": "Mechanical",
       "photo": "/images/venka.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "2"
     },
     {
       "id": 159,
@@ -1423,7 +1423,7 @@
       "department": "Mechanical",
       "photo": "/images/austine.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "2"
     },
     {
       "id": 160,
@@ -1432,7 +1432,7 @@
       "department": "Mechanical",
       "photo": "/images/santhosh_me.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "2"
     },
     {
       "id": 161,
@@ -1441,7 +1441,7 @@
       "department": "Mechanical",
       "photo": "/images/hs.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "2"
     },
     {
       "id": 162,
@@ -1450,7 +1450,7 @@
       "department": "Mechanical",
       "photo": "/images/vish.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "2"
     },
     {
       "id": 163,
@@ -1459,7 +1459,7 @@
       "department": "Mechanical",
       "photo": "/images/dilip.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "2"
     },
     {
       "id": 164,
@@ -1487,7 +1487,7 @@
       "department": "Mechanical",
       "photo": "/images/melwyn.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "2"
     },
     {
       "id": 167,
@@ -1496,7 +1496,7 @@
       "department": "Mechanical",
       "photo": "/images/ravikiran.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "2"
     },
     {
       "id": 168,
@@ -1505,7 +1505,7 @@
       "department": "Mechanical",
       "photo": "/images/srini.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "2"
     },
     {
       "id": 169,
@@ -1550,7 +1550,7 @@
       "department": "Mechanical",
       "photo": "/images/sunil_me.jpg",
       "officeLocation": "RAMANUJAN",
-      "phoneNumber": "G"
+      "phoneNumber": "2"
     },
     {
       "id": 174,
@@ -1598,19 +1598,408 @@
       "phoneNumber": "G"
     },
     {
-      "id": 178,
-      "name": "Dr. ASHWINI B",
-      "email": " ashwinib@nitte.edu.in",
-      "department": "Information Science",
-      "photo": "/images/ashwini.jpg",
+      "id": 179,
+      "name": "Dr. I RAMESH MITHANTHAYA",
+      "email": " viceprincipal.nmamit@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/mitha.jpg",
       "officeLocation": "RAMANUJAN",
       "phoneNumber": "G"
+    },
+    {
+      "id": 180,
+      "name": "Dr. A N PARAMESWARAN",
+      "email": "director.iic@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/param.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 181,
+      "name": "Dr. ARUN KUMAR BHAT",
+      "email": " arun.bhat@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/arun_ci.jpg",
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 182,
+      "name": "Dr. SRINATH SHETTY K",
+      "email": " shettysrinath@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/shrin.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 183,
+      "name": "Mr. BHANDAGE A. R",
+      "email": "--",
+      "department": "Civil",
+      "photo": "/images/bhand.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 184,
+      "name": "Dr. BHOJARAJA B E",
+      "email": " be.bhojaraj@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/bhoj.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 185,
+      "name": "Dr. RANJITH A",
+      "email": "  ranjith.anand@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/ran.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 186,
+      "name": "Dr. SHAIK KABEER AHMED",
+      "email": " kabeer@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/shaik.jpg",
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 187,
+      "name": "Dr. SHRIRAM MARATHE",
+      "email": " shrirammarathe@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/shriram.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 188,
+      "name": "Dr. PUSHPARAJ",
+      "email": " pushparajmanai@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/pushpa.jpg",
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 189,
+      "name": "Dr. MITHUN B M",
+      "email": " mithunbm@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/mith.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 190,
+      "name": "Dr. SHANMUKHA SHETTY",
+      "email": "shettyshanmukha@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/shan.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 191,
+      "name": "Dr. MANJUNATH M",
+      "email": " manjum@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/man.jpg",
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 192,
+      "name": "Mr.SUNDIP SHENOY",
+      "email": " sundipshenoy@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/sundip.jpg",
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 193,
+      "name": "Mr. GURURAJ ACHARYA",
+      "email": " rajnitte@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/gururaj_ci.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 194,
+      "name": "Mr. RAKSHITH KUMAR SHETTY",
+      "email": " rakshithshetty@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/rakshith.jpg",
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 195,
+      "name": "Mr. ROSHAN RAI",
+      "email": " roshanrai@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/roshan.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 196,
+      "name": "Mr. ARJUN K PUNJA",
+      "email": "--",
+      "department": "Civil",
+      "photo": "/images/arjun.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 197,
+      "name": "Mr. THUSHAR SHETTY",
+      "email": "shettythushar@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/thushar.jpg",
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "1"
+    },
+    {
+      "id": 198,
+      "name": "Dr. PRASHANTH KUMAR K",
+      "email": " prashanthanitte@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/pras.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 199,
+      "name": "Mr. PRITHVIRAJ H K",
+      "email": " prithvirajhk@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/prithvi.jpg",
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 200,
+      "name": "Mr. PRADEEP KARANTH",
+      "email": " pradeepkaranth@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/pradeep_ci.jpg",
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "1"
+    },
+    {
+      "id": 201,
+      "name": " Ms. DEEKSHITHA K",
+      "email": " deekshitha.k@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/deekshitha.jpg",
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "1"
+    },
+    {
+      "id": 202,
+      "name": "Ms. THANUSHREE A HEGDE",
+      "email": " hegdethanu@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/thanu.jpg",
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "1"
+    },
+    {
+      "id": 203,
+      "name": "Dr. VASANTH K R",
+      "email": " drvasanth@nitte.edu.in",
+      "department": "Maths",
+      "photo": "/images/vas.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "1"
+    },
+    {
+      "id": 204,
+      "name": "Dr. KUMUDAKSHI",
+      "email": " skumudakshi@nitte.edu.in",
+      "department": "Maths",
+      "photo": "/images/kumu.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "4"
+    },
+    {
+      "id": 205,
+      "name": "Dr. SHARAD M HEGDE",
+      "email": " Sharu.kud@nitte.edu.in",
+      "department": "Maths",
+      "photo": "/images/sharad.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "1"
+    },
+    {
+      "id": 206,
+      "name": "Dr. ASHWINI KUMARI",
+      "email": " dr.ashwini@nitte.edu.in",
+      "department": "Maths",
+      "photo": "/images/ash.jpg",
+      "officeLocation": "A P J",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 207,
+      "name": "Dr. CHAITHRA K",
+      "email": "  89chaithrak@nitte.edu.in",
+      "department": "Maths",
+      "photo": "/images/chai.jpg",
+      "officeLocation": "A P J",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 208,
+      "name": "Dr. PRASHANTHI K S",
+      "email": " prashanthi.ks@nitte.edu.in",
+      "department": "Maths",
+      "photo": "/images/pr.jpg",
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "1"
+    },
+    {
+      "id": 209,
+      "name": "Dr. GIRIJA K P",
+      "email": " girija.kp@nitte.edu.in",
+      "department": "Maths",
+      "photo": "/images/girija.jpg",
+      "officeLocation": "M VISVESVARAYA",
+      "phoneNumber": "1"
+    },
+    {
+      "id": 210,
+      "name": "Dr. GANESH KUMAR K",
+      "email": " dr.kgr@nitte.edu.in",
+      "department": "Maths",
+      "photo": "/images/gan.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 211,
+      "name": "Dr. VENKATRAMANA P B",
+      "email": "  venkataramana.pb@nitte.edu.in",
+      "department": "Maths",
+      "photo": "/images/vk.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 212,
+      "name": "Ms. AMBIKA N",
+      "email": " ambika.1921@nitte.edu.in",
+      "department": "Maths",
+      "photo": "/images/ambika.jpg",
+      "officeLocation": "RAMANUJAN",
+      "phoneNumber": "G"
+    },
+    {
+      "id": 213,
+      "name": "Ms. VINAYA ACHARYA",
+      "email": " vinaya07@nitte.edu.in",
+      "department": "Maths",
+      "photo": "/images/vinaya.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "4"
+    },
+    {
+      "id": 214,
+      "name": "Ms. ANITHA D BAYAR",
+      "email": "anithadbayar@nitte.edu.in",
+      "department": "Maths",
+      "photo": "/images/anitha.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 215,
+      "name": "Ms. BHAVYA K",
+      "email": " bhavyak@nitte.edu.in",
+      "department": "Civil",
+      "photo": "/images/bh.jpg",
+      "officeLocation": "A P J",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 216,
+      "name": "Ms. BHAVYA D",
+      "email": " bhavya.aithal@nitte.edu.in",
+      "department": "Maths",
+      "photo": "/images/bhav.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "4"
+    },
+    {
+      "id": 217,
+      "name": "Ms. SHARMILA",
+      "email": " shettysharmila2@nitte.edu.in",
+      "department": "Maths",
+      "photo": "/images/sharmila.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 218,
+      "name": "Ms. ANJANA PAI K",
+      "email": " anjanapaik@nitte.edu.in",
+      "department": "Maths",
+      "photo": "/images/anj.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 219,
+      "name": "Ms. SOUMYA",
+      "email": " soumyajain87@nitte.edu.in",
+      "department": "Maths",
+      "photo": "/images/sou.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
+    },
+    {
+      "id": 220,
+      "name": "Ms. SMITHA G V",
+      "email": " smithasringeri@nitte.edu.in",
+      "department": "Maths",
+      "photo": "/images/smitha_ma.jpg",
+      "officeLocation": "C V RAMAN",
+      "phoneNumber": "3"
     }
- 
- 
-    
-    
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   ],
 
   
